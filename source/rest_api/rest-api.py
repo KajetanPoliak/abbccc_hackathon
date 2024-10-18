@@ -5,6 +5,43 @@ app = Flask(__name__)
 
 results = SearchResults()
 
+results.Add(
+    ProjectResult(
+        ProjectDefinition(
+            "Web Development",
+            "Create a responsive website",
+            "Frontend and backend implementation",
+        ),
+        "Project started",
+        1634567890,
+        "John Doe",
+    )
+)
+results.Add(
+    ProjectResult(
+        ProjectDefinition(
+            "Mobile App",
+            "Develop a cross-platform mobile application",
+            "UI/UX design and development",
+        ),
+        "In progress",
+        1634657890,
+        "Jane Smith",
+    )
+)
+results.Add(
+    ProjectResult(
+        ProjectDefinition(
+            "Data Analysis",
+            "Analyze customer behavior data",
+            "Data cleaning and visualization",
+        ),
+        "Completed",
+        1634747890,
+        "Bob Johnson",
+    )
+)
+
 
 @app.route("/search", methods=["GET"])
 def search() -> str:
@@ -15,7 +52,7 @@ def search() -> str:
 
     response: SearchResults = SearchResults()
 
-    for project in results:
+    for project in results.Items():
         if (
             project_description
             and project_description

@@ -69,6 +69,9 @@ class SearchResults:
             {"results": [result.to_dict() for result in self.results]}, indent=2
         )
 
+    def Items(self) -> list[ProjectResult]:
+        return self.results
+
     @classmethod
     def deserialize(cls, json_str: str) -> "SearchResults":
         data = json.loads(json_str)
