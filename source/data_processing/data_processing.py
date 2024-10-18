@@ -84,7 +84,7 @@ class DataProcessor:
         df = self.load_event_data()
         df_restricted = df[self.event_used_cols]
         data_list = df_restricted.values.tolist()
-        return data_list
+        return data_list[0:2]
 
 
 if __name__ == "__main__":

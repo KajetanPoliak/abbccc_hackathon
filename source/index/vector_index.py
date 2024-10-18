@@ -5,6 +5,7 @@ from typing import List, Optional, Tuple
 import faiss
 import numpy as np
 import numpy.typing as npt
+import pandas as pd
 from transformers import AutoModel, AutoTokenizer
 
 from source.utils.logging import get_stream_logger
@@ -45,6 +46,16 @@ class FaissIndex:
         query = f"{title} / {body}".strip("/ ")
         return query
 
+    def to_dataframe(
+        self, score: npt.NDArray, idx: npt.NDArray, items: List[str]
+    ) -> pd.DataFrame:
+        data = [score, idx, items]
+        kk = [data[0][0], data[1][0], data[2]]
+        df = pd.DataFrame(kk, index=["context_score", "indexes", "Project"]).T
+        df[["project", "activity"]] = df["Project"].str.split(": ", expand=True)
+        df.drop(columns=["Project", "indexes"], inplace=True)
+        return df
+
     def search(
         self,
         document: str,
@@ -53,7 +64,7 @@ class FaissIndex:
         k: Optional[int] = None,
     ) -> Tuple[npt.NDArray, npt.NDArray, List[str]]:
         query = encode_documents(
-            [document], tokenizer, model, normalize=True, device="mps"
+            [document], tokenizer, model, normalize=True, device="cpu"
         )
         # Normalize the query vector
         query /= np.linalg.norm(query, axis=1).reshape(-1, 1)

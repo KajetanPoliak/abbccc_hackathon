@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 
 from source.data_processing.data_processing import DataProcessor
 from source.index.keyword_index import KeywordSearchIndex
@@ -39,7 +40,6 @@ class Pipeline:
                 keyword_query_processed, title=keyword_query["title"]
             )
             search_results_df = keyword_index.to_dataframe(search_results)
-            search_results_df["event_id"] = event_id
 
             print(search_results_df)
 
@@ -48,10 +48,18 @@ class Pipeline:
                 title=event[1], body=event[2]
             )
             tok, mod = get_tokenizer_and_model(device="cpu")
+            print("TEST")
             dist, idx, itms = context_index.search(
-                document=context_query, tokenizer=tok, model=mod, k=5
+                document=context_query, tokenizer=tok, model=mod, k=None
             )
             print("Search after the load:", dist, idx, itms)
+            context_result_df = context_index.to_dataframe(dist, idx, itms)
+
+            result_df = pd.merge(
+                search_results_df, context_result_df, on=["project", "activity"]
+            )
+            result_df["event_id"] = event_id
+            print(result_df)
 
 
 if __name__ == "__main__":
