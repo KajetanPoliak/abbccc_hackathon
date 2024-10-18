@@ -59,6 +59,7 @@ class KeywordSearchIndex:
     def _extract_keywords(cls, text: str, use_ml: bool = True) -> Set[str]:
         # Simple keyword extraction by splitting on non-alphabetic characters
         # and removing stopwords
+        text = text.strip()
         if not use_ml:
             words = re.findall(r"\b\w+\b", text.lower())
             keywords = [
@@ -272,7 +273,7 @@ if __name__ == "__main__":
     # Read project data to create an index
     import pandas as pd
 
-    df = pd.read_csv(__data_dir__ / "trimmed_project_data.csv")
+    df = pd.read_csv(__data_dir__ / "trimmed_project_data.csv").fillna("")
     index = KeywordSearchIndex()
     df.apply(
         lambda row: index.add_core_document(
