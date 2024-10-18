@@ -12,7 +12,7 @@ class Pipeline:
         self.dp = DataProcessor()
         self.index = FaissIndex(dim=768)
 
-    def run(self) -> None:
+    def run(self) -> pd.DataFrame:
         ### Initialize the pipeline ###
         # Load the keyword index
         keyword_index = KeywordSearchIndex.from_file(
@@ -23,6 +23,7 @@ class Pipeline:
 
         # Get the event data
         title_body_list = self.dp.get_email_data()
+        preds = []
         for event in title_body_list:
             event_id = event[0]
             ####### KEYWORD SEARCH #######
@@ -59,7 +60,9 @@ class Pipeline:
                 search_results_df, context_result_df, on=["project", "activity"]
             )
             result_df["event_id"] = event_id
-            print(result_df)
+            preds.append(result_df)
+        preds_df = pd.concat(preds, axis=0)
+        return preds_df
 
 
 if __name__ == "__main__":
