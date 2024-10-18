@@ -77,6 +77,14 @@ def encode_documents(
     return document_embeddings.cpu().numpy()
 
 
+def apply_vectorization(title_body_list: List[str]) -> npt.NDArray:
+    tok, mod = get_tokenizer_and_model(device="mpu")
+    embeddings = encode_documents(
+        documents=title_body_list, tokenizer=tok, model=mod, normalize=True
+    )
+    return embeddings
+
+
 if __name__ == "__main__":
     tok, mod = get_tokenizer_and_model(device="mpu")
     example_documents = [
