@@ -17,11 +17,12 @@ class DataProcessor:
         self.body_cn = "Body"
 
         self.body_cols = [
-            "Project Definition",
             "Comment",
         ]
         self.title_cols = ["Project Description", "Activity Description"]
-        self.used_cols = self.body_cols + self.title_cols
+        self.used_cols = (
+            self.body_cols + self.title_cols + ["Project Definition"]
+        )
 
         self.event_used_cols = ["ical_uid", "subject", "body_clean"]
 
@@ -79,11 +80,53 @@ class DataProcessor:
             data = cast(List[Dict[str, Any]], json.load(f))
         return data
 
-    def get_even_dataframe(self) -> pd.DataFrame:
+    def get_event_dataframe(self) -> pd.DataFrame:
         df = pd.DataFrame(self.load_event_data())
         return df
+
+    def enrich_json(self) -> None:
+        df = self.get_project_data()
+        df.rename(
+            columns={
+                "Project Description": "project_description",
+                "Project Definition": "project_definition",
+                "Activity Description": "project_activity",
+            },
+            inplace=True,
+        )
+        df["merge_helper"] = (
+            df["project_description"] + " / " + df["project_activity"]
+        )
+        df.drop_duplicates(
+            subset=["project_description", "project_activity"], inplace=True
+        )
+        df.drop(
+            columns=["project_description", "project_activity", "Comment"],
+            inplace=True,
+        )
+        print(df)
+        print(df.shape)
+        # read json results
+        with open(f"{self.data_dir}data_results.json") as f:
+            result_data = cast(List[Dict[str, Any]], json.load(f))
+
+        result_df = pd.DataFrame(result_data)
+        result_df["merge_helper"] = (
+            result_df["project_description"]
+            + " / "
+            + result_df["project_activity"]
+        )
+
+        enriched_data = pd.merge(
+            df, result_df, on=["merge_helper"], how="right"
+        )
+        enriched_data.drop(columns=["merge_helper"], inplace=True)
+        enriched_json = enriched_data.to_dict(orient="records")
+        # Save json
+        with open(f"{self.data_dir}enriched_data.json", "w") as f:
+            json.dump(enriched_json, f, indent=4)
 
 
 if __name__ == "__main__":
     dp = DataProcessor()
-    data = dp.get_even_dataframe()
+    dp.enrich_json()
