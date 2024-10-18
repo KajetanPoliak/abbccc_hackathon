@@ -23,6 +23,19 @@ results.Add(
 results.Add(
     ProjectResult(
         ProjectDefinition(
+            "Web Development",
+            "Create a responsive website",
+            "Frontend and backend implementation",
+        ),
+        "Project started",
+        datetime.now(),
+        "John Doe",
+        5,
+    )
+)
+results.Add(
+    ProjectResult(
+        ProjectDefinition(
             "Mobile App",
             "Develop a cross-platform mobile application",
             "UI/UX design and development",

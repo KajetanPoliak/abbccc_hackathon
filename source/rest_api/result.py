@@ -22,6 +22,15 @@ class ProjectDefinition:
             "activity_description": self.activity_description,
         }
 
+    def GetProjectDescription(self) -> str:
+        return self.project_description
+
+    def GetProjectDefinition(self) -> str:
+        return self.project_definition
+
+    def GetActivityDescription(self) -> str:
+        return self.activity_description
+
     @classmethod
     def from_dict(cls, data: Dict[str, str]) -> "ProjectDefinition":
         return cls(
@@ -54,6 +63,21 @@ class ProjectResult:
             "name": self.name,
             "duration": self.duration,
         }
+
+    def GetProject(self) -> ProjectDefinition:
+        return self.project
+
+    def GetComment(self) -> str:
+        return self.comment
+
+    def GetDatetime(self) -> datetime:
+        return self.datetime
+
+    def GetName(self) -> str:
+        return self.name
+
+    def GetDuration(self) -> int:
+        return self.duration
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "ProjectResult":
