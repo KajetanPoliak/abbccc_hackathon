@@ -1,0 +1,13 @@
+name: abb-backend-py310
+channels:
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - black
+  - git>=2.40.1
+  - python=3.10
+  - pip>=21.0
+  - tmux
+  - pip:
+      - -r requirements_backend.txt

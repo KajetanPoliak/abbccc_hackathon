@@ -1,0 +1,4 @@
+# Ignore PyCharm-related files
+.idea/
+*.iml
+*.iws
