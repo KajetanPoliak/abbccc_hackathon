@@ -22,6 +22,15 @@ class ProjectDefinition:
             "activity_description": self.activity_description,
         }
 
+    def GetProjectDescription(self) -> str:
+        return self.project_description
+
+    def GetProjectDefinition(self) -> str:
+        return self.project_definition
+
+    def GetActivityDescription(self) -> str:
+        return self.activity_description
+
     @classmethod
     def from_dict(cls, data: Dict[str, str]) -> "ProjectDefinition":
         return cls(
@@ -50,17 +59,34 @@ class ProjectResult:
         return {
             "project": self.project.to_dict(),
             "comment": self.comment,
-            "datetime": self.datetime,
+            "datetime": self.datetime.isoformat(),
             "name": self.name,
             "duration": self.duration,
         }
+
+    def GetProject(self) -> ProjectDefinition:
+        return self.project
+
+    def GetComment(self) -> str:
+        return self.comment
+
+    def GetDatetime(self) -> datetime:
+        return self.datetime
+
+    def GetName(self) -> str:
+        return self.name
+
+    def GetDuration(self) -> int:
+        return self.duration
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "ProjectResult":
         return cls(
             project=ProjectDefinition.from_dict(data.get("project", {})),
             comment=data.get("comment", ""),
-            datetime=data.get("time", datetime.fromtimestamp(0)),
+            datetime=datetime.fromisoformat(
+                data.get("datetime", "1970-00-00T00:00:00")
+            ),
             name=data.get("name", ""),
             duration=data.get("duration", 0),
         )

@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from flask import Flask, jsonify, request
 from result import ProjectDefinition, ProjectResult, SearchResults
 
@@ -13,8 +15,22 @@ results.Add(
             "Frontend and backend implementation",
         ),
         "Project started",
-        1634567890,
+        datetime.now(),
         "John Doe",
+        8,
+    )
+)
+results.Add(
+    ProjectResult(
+        ProjectDefinition(
+            "Web Development",
+            "Create a responsive website",
+            "Frontend and backend implementation",
+        ),
+        "Project started",
+        datetime.now(),
+        "John Doe",
+        5,
     )
 )
 results.Add(
@@ -25,8 +41,9 @@ results.Add(
             "UI/UX design and development",
         ),
         "In progress",
-        1634657890,
+        datetime.now(),
         "Jane Smith",
+        1,
     )
 )
 results.Add(
@@ -37,8 +54,9 @@ results.Add(
             "Data cleaning and visualization",
         ),
         "Completed",
-        1634747890,
+        datetime.now(),
         "Bob Johnson",
+        2,
     )
 )
 
