@@ -50,7 +50,7 @@ class ProjectResult:
         return {
             "project": self.project.to_dict(),
             "comment": self.comment,
-            "datetime": self.datetime,
+            "datetime": self.datetime.isoformat(),
             "name": self.name,
             "duration": self.duration,
         }
