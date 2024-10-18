@@ -35,6 +35,7 @@ for event in data:
                 user_id=event["id"],
                 duration=event["duration"],
                 subject=event["subject"],
+                body=event["body_preview_clean"],
             )
         )
 
