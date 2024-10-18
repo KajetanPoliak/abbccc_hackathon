@@ -6,6 +6,7 @@ from typing import Any, Dict, Optional, Set
 
 import nltk
 import numpy as np
+import pandas as pd
 import spacy
 from keybert import KeyBERT
 from spacy import Language
@@ -188,6 +189,25 @@ class KeywordSearchIndex:
             print(f"Project: {project}")
             for activity, match_count in activities.items():
                 print(f"\tActivity: {activity} (Matches: {match_count})")
+
+    def to_dataframe(
+        self,
+        results: Dict[str, Any],
+    ) -> pd.DataFrame:
+        """Convert the search index to a DataFrame"""
+        return pd.DataFrame(
+            [
+                {"project": project, "activity": activity, "match_count": count}
+                for project, activities in results.items()
+                for activity, count in activities.items()
+            ]
+        )
+
+    def save_results(self, results: Dict[str, Any], filename: str) -> None:
+        """Save the search results to a CSV file"""
+        df = self.to_dataframe(results)
+        df.sort_values("match_count", ascending=False, inplace=True)
+        df.to_csv(__data_dir__ / filename, index=False)
 
     def save(self, filename: str) -> None:
         """Save the search index to a JSON file"""
