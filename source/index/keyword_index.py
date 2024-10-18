@@ -1,11 +1,12 @@
 import json
-import re
 from collections import defaultdict
 from pathlib import Path
 from typing import Any, Dict, Optional, Set
 
 import nltk
 import numpy as np
+import spacy
+from spacy import Language
 
 from source.utils.logging import get_stream_logger
 from source.utils.string_matching import fuzzy_nn_match
@@ -18,6 +19,7 @@ assert __data_dir__.exists(), f"Data directory not found: {__data_dir__!r}"
 
 class KeywordSearchIndex:
     stopwords: Set[str] = set()
+    nlp: Optional[Language] = None
 
     def __init__(self) -> None:
         self.logger = get_stream_logger(self.__class__.__name__)
@@ -25,12 +27,14 @@ class KeywordSearchIndex:
         self.index: Dict[str, Dict[str, Set[str]]] = defaultdict(
             lambda: defaultdict(set)
         )
-        self.stopwords = self.get_stop_words()
 
     def __new__(cls, *args: Any, **kwargs: Any) -> "KeywordSearchIndex":
         # Set stopwords as a class attribute
         if not cls.stopwords:
             cls.stopwords = cls.get_stop_words()
+        if not cls.nlp:
+            cls.nlp = spacy.load("xx_ent_wiki_sm")
+
         return super().__new__(cls)
 
     @classmethod
@@ -43,17 +47,28 @@ class KeywordSearchIndex:
         return set(
             nltk.corpus.stopwords.words("english")
             + nltk.corpus.stopwords.words("german")
+            + nltk.corpus.stopwords.words("finnish")
         )
 
     @classmethod
     def _extract_keywords(cls, text: str) -> Set[str]:
         # Simple keyword extraction by splitting on non-alphabetic characters
         # and removing stopwords
-        words = re.findall(r"\b\w+\b", text.lower())
+        # words = re.findall(r"\b\w+\b", text.lower())
+        # keywords = [
+        #     word
+        #     for word in words
+        #     if word not in cls.stopwords and len(word) >= 2
+        # ]
+        # Use spaCy for named entity recognition
+        assert cls.nlp, "SpaCy NLP model not loaded"
+        doc = cls.nlp(text)
+        keywords = [ent.text.lower() for ent in doc.ents]
+        # Remove stopwords and short words
         keywords = [
-            word
-            for word in words
-            if word not in cls.stopwords and len(word) >= 2
+            keyword
+            for keyword in keywords
+            if keyword not in cls.stopwords and len(keyword) >= 2
         ]
         return set(keywords)
 
@@ -158,7 +173,7 @@ class KeywordSearchIndex:
         # Convert the defaultdict to a regular dictionary before serializing
         index_serializable = {
             project: {
-                activity: list(keywords)
+                activity: sorted(keywords)
                 for activity, keywords in activities.items()
             }
             for project, activities in self.index.items()
