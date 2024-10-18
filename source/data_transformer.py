@@ -20,6 +20,7 @@ class CalendarMeeting:
 
     def __init__(self, raw: Dict[str, Any]) -> None:
         self.raw = raw
+        self.id = raw["id"]
         self.ical_uid = raw["iCalUId"]
         self.subject = raw["subject"]
         self.body_preview = raw["bodyPreview"]
@@ -100,6 +101,7 @@ class CalendarMeeting:
 
     def to_dict(self) -> Dict[str, Any]:
         return {
+            "id": self.id,
             "ical_uid": self.ical_uid,
             "subject": self.subject,
             "body_preview_clean": self.body_preview_clean,
