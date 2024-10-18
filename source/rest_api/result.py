@@ -60,7 +60,9 @@ class ProjectResult:
         return cls(
             project=ProjectDefinition.from_dict(data.get("project", {})),
             comment=data.get("comment", ""),
-            datetime=data.get("time", datetime.fromtimestamp(0)),
+            datetime=datetime.fromisoformat(
+                data.get("datetime", "1970-00-00T00:00:00")
+            ),
             name=data.get("name", ""),
             duration=data.get("duration", 0),
         )
