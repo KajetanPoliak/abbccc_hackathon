@@ -39,7 +39,8 @@ def search() -> str:
 
         response.Add(project)
 
-    return ""
+    responseString : str = response.serialize()
+    return responseString
 
 
 if __name__ == "__main__":
