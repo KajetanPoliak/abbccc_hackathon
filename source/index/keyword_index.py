@@ -1,4 +1,5 @@
 import json
+import re
 from collections import defaultdict
 from pathlib import Path
 from typing import Any, Dict, Optional, Set
@@ -51,25 +52,27 @@ class KeywordSearchIndex:
         )
 
     @classmethod
-    def _extract_keywords(cls, text: str) -> Set[str]:
+    def _extract_keywords(cls, text: str, use_spacy: bool = True) -> Set[str]:
         # Simple keyword extraction by splitting on non-alphabetic characters
         # and removing stopwords
-        # words = re.findall(r"\b\w+\b", text.lower())
-        # keywords = [
-        #     word
-        #     for word in words
-        #     if word not in cls.stopwords and len(word) >= 2
-        # ]
-        # Use spaCy for named entity recognition
-        assert cls.nlp, "SpaCy NLP model not loaded"
-        doc = cls.nlp(text)
-        keywords = [ent.text.lower() for ent in doc.ents]
-        # Remove stopwords and short words
-        keywords = [
-            keyword
-            for keyword in keywords
-            if keyword not in cls.stopwords and len(keyword) >= 2
-        ]
+        if not use_spacy:
+            words = re.findall(r"\b\w+\b", text.lower())
+            keywords = [
+                word
+                for word in words
+                if word not in cls.stopwords and len(word) >= 2
+            ]
+        else:
+            # Use spaCy for named entity recognition
+            assert cls.nlp, "SpaCy NLP model not loaded"
+            doc = cls.nlp(text)
+            keywords = [ent.text.lower() for ent in doc.ents]
+            # Remove stopwords and short words
+            keywords = [
+                keyword
+                for keyword in keywords
+                if keyword not in cls.stopwords and len(keyword) >= 2
+            ]
         return set(keywords)
 
     def add_core_document(
