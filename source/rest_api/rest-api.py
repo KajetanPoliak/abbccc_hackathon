@@ -1,64 +1,36 @@
-from datetime import datetime
-
+from datetime import datetime,date
+import json
+import os
 from flask import Flask, jsonify, request
 from result import ProjectDefinition, ProjectResult, SearchResults
 
 app = Flask(__name__)
 
+with open("./data/data_cleaned.json", encoding="utf-8") as f:
+    data = json.load(f)
+
 results = SearchResults()
 
-results.Add(
-    ProjectResult(
-        ProjectDefinition(
-            "Web Development",
-            "Create a responsive website",
-            "Frontend and backend implementation",
-        ),
-        "Project started",
-        datetime.now(),
-        "John Doe",
-        8,
-    )
-)
-results.Add(
-    ProjectResult(
-        ProjectDefinition(
-            "Web Development",
-            "Create a responsive website",
-            "Frontend and backend implementation",
-        ),
-        "Project started",
-        datetime.now(),
-        "John Doe",
-        5,
-    )
-)
-results.Add(
-    ProjectResult(
-        ProjectDefinition(
-            "Mobile App",
-            "Develop a cross-platform mobile application",
-            "UI/UX design and development",
-        ),
-        "In progress",
-        datetime.now(),
-        "Jane Smith",
-        1,
-    )
-)
-results.Add(
-    ProjectResult(
-        ProjectDefinition(
-            "Data Analysis",
-            "Analyze customer behavior data",
-            "Data cleaning and visualization",
-        ),
-        "Completed",
-        datetime.now(),
-        "Bob Johnson",
-        2,
-    )
-)
+for event in data:
+    for dt_instance in event["instances"]:
+        date_start = date.fromisoformat(dt_instance)
+        time_start = datetime.fromisoformat(event["start"])
+        results.Add(
+            ProjectResult(
+                project=ProjectDefinition(project_description = "xx", #event["project_description"]
+                                        project_definition="yy", #event["project_definition"]
+                                        activity_description="zz", #event["activity_description"]
+                                        confidence = 0.99),
+            datetime_start = datetime(year=date_start.year, 
+                                      month = date_start.month, 
+                                      day = date_start.day,
+                                      hour = time_start.hour, 
+                                      minute=time_start.hour, 
+                                      second=time_start.second),
+            user_id = event["id"],
+            duration = event["duration"]
+            )
+        )
 
 
 @app.route("/search", methods=["GET"])
@@ -66,7 +38,7 @@ def search() -> str:
     project_description = request.args.get("project_description", "").lower()
     project_definition = request.args.get("project_definition", "").lower()
     activity_description = request.args.get("activity_description", "").lower()
-    name = request.args.get("name", "").lower()
+    user_id = request.args.get("user_id", "").lower()
 
     response: SearchResults = SearchResults()
 
@@ -89,7 +61,7 @@ def search() -> str:
             not in project.project.activity_description.lower()
         ):
             continue
-        if name and name not in project.name.lower():
+        if user_id and user_id not in project.name.lower():
             continue
 
         response.Add(project)
