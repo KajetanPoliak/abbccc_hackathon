@@ -24,7 +24,7 @@ def search_projects(
 
 
 def split_by_project(results: SearchResults) -> dict[str, list[ProjectResult]]:
-    resultDict : dict[str, list[ProjectResult]] = {}
+    resultDict: dict[str, list[ProjectResult]] = {}
     for project in results.Items():
         definition: str = project.GetProject().GetProjectDefinition()
         if definition in resultDict:
@@ -37,7 +37,7 @@ def split_by_project(results: SearchResults) -> dict[str, list[ProjectResult]]:
 def split_by_description(
     projects: list[ProjectResult],
 ) -> dict[str, list[ProjectResult]]:
-    resultDict : dict[str, list[ProjectResult]] = {}
+    resultDict: dict[str, list[ProjectResult]] = {}
     for project in projects:
         description: str = project.GetProject().GetProjectDescription()
         if description in resultDict:
@@ -50,7 +50,7 @@ def split_by_description(
 def split_by_activity(
     projects: list[ProjectResult],
 ) -> dict[str, list[ProjectResult]]:
-    resultDict : dict[str, list[ProjectResult]] = {}
+    resultDict: dict[str, list[ProjectResult]] = {}
     for project in projects:
         activity: str = project.GetProject().GetActivityDescription()
         if activity in resultDict:
