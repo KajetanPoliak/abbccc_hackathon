@@ -39,7 +39,7 @@ def search() -> str:
 
         response.Add(project)
 
-    responseString : str = response.serialize()
+    responseString: str = response.serialize()
     return responseString
 
 
