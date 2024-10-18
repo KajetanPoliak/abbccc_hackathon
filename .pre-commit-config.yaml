@@ -1,7 +1,7 @@
 fail_fast: false  # stop running hooks after the first failure
 repos:
   - repo: git@github.com:pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v5.0.0
     hooks:
       - id: trailing-whitespace
       - id: end-of-file-fixer
@@ -25,14 +25,14 @@ repos:
           "--balanced",
         ]  # https://pycqa.github.io/isort/docs/configuration/options.html#python-version
   - repo: git@github.com:psf/black
-    rev: 24.3.0
+    rev: 24.10.0
     hooks:
       - id: black
         args:
           - -l 80  # character limit
           #- -q  # quiet
   - repo: git@github.com:pre-commit/mirrors-mypy
-    rev: v1.9.0
+    rev: v1.12.0
     hooks:
       - id: mypy
         args: ["--config=./mypy.ini"]
