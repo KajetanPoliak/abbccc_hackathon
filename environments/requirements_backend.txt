@@ -1,8 +1,7 @@
 matplotlib
 mypy==1.9.0
-pandas
-pre-commit==3.7.0
-pre-commit
+pandas==2.2.3
+pre-commit>=3.7.0,<3.8.0
 pytest>=8.1.0
-scikit-learn
+scikit-learn==1.5.2
 seaborn
