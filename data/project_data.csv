@@ -1,0 +1,2001 @@
+﻿Project Name;Project Description;Project Definition;Activity Description;Activity Name;Posted time (h);Comment
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;6;Reworking the current flow chart
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;4;Flow Chart finalization.
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;1;Coop /w Robert: upload of the flow chart and resizing
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;1;Check up on the flow chart links and DB
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;2;Check of the task list - reviewing completed work regarding dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;1;Flow Chart Changes
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;3;Flow Chart Changes
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Flow chart creation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;2;Flow chart - linking DB + adding live status (ActPow)
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;2;Internal sync
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;3;Report template creation
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;4;BMW Handover
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;1;Cascade study
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;4;Diesldorf (BMW) outage of multiple chargers - troubleshooting and reporting
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;2;Follow up to the BMW incident
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;6;"Cooperation with Stefan Sommer
+Cascade update/upload (BMW)"
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;1;Colab w/ Ali - update on MEWA - they seem to drop us
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;3;Cloud + UI deployment - Groupe E
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;2;UI Site error (Glarnerland)
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;1;UI Site error (Glarnerland) - requesting second pair of eyes to check the issue - root case not found
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;2;UI resolution
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;2;Lautzenhausen + Hamminkeln set up comparison
+2WAA071877;DEABB Smart charging;Engineering;Development;2.1.2.01;2;TBA
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"Troubleshooting w/ Yulin > faulty access to the HPP sizing tool
+>>> fixed"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;DevOps Tasklist clean up
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"DevOps rights issue, Repository request + Wiki
+New task list prep."
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Spring Planning
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Clean up + discussion w/ Georg
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"H2 Berkheim
+H2 Valleys RefTeam Meeting"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Bi-Weekly Status Update meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;"HPP walk-through of the comments and notes from Georg regarding the functionality and reported ""flaws"""
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Bi-Weekly Status Update + Vulnerability report
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Vulnerability report review + troubleshooting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;"HPP Sizing Tool Development discussion + sync with all members
+Team assemblement
+Ahlen consultancy discussions + quotation change"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Internal sync - Ahlen adjustment request
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Teams/DevOps tasks
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Power2X HPP Presentation preparation
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Power2X Summit (+ HPP Panel)
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;"DevOps environment adjustment w/ Veronika
+Backlog clean up
+Sprint planing"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;Testing of the DEV features, bug reporting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;DECRC hydrogen project
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing Tool Status Update
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;UI Developer meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Sync w/ David P. - HPP Sizing Tool vulnerability sync
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP / H2 presentation for Orlen customer w/ Polish ABB
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"Accessibility issue - troubleshooting + resolution
+Tasks distribution"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"additional planning + update
+Presentation and Q&A for SEABB"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Vulnerability check / test
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"HPP Bi-weekly Team Sync / update
++ follow up work"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing status and PtX extension /w Rüdiger
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;testing of the latest features so they can be moved into prod.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;"Course settlement
+Complete overwork of DevOps
+- Features / user stories / tasks"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;internal walk-through with technicians - settle down on their roles and responsibilities - definition in DevOps (creation of a work frame together with the tasks)
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"HPP Monetization plan
+HPP Portfolio settlement
+Internal meeting with the Czech managers are all parties interested/involved from Czech EUOPC"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"Development w/ Bernhard and David
+Regular meeting"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"Colab with the German team in order to adjust the HPP DevOps environment
+-tags, features, deadline, hours est./spent, planning, reporting"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Completion of the task structure & task filtering
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Update in HPP sizing tool / Power2X
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Internal Feature Clean Up / closing of all old tasks
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP meeting with PLABB - potential customer growth
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;New branches creation, Disaster recovery report
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"Wiki extension
+Internal status update"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP regular meeting, meeting with Ian Holden (GB) - possible H2 interests
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"Internal Sync + Wiki Update
+SSL\TLS Certificate Renewal"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;NLABB HPP Portfolio presentation + support during customer meet up
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"Internal Meeting
+Task distribution
+Access set up for Anton"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;DevOps tasks update
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Technical regular meet up
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;bi-weekly team sync/meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP CZ internal sync
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"Road Map Creation + definition of timelines
+Team Meeting and + initial draw ver. of road map"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"Internal Road Map creation
+Technical Crew Meeting"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Office meet up with the technical (CZE) crew - work on the road map, definition of new tasks, review of the closed ones
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"Internal technical meeting
+Anton's Repos issue - fixed"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Administrative changes in Business Application portal
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Regular Technical Meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Colab w/ Anton - visualization - dashboards outcome
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Berkheim Model Comparison
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Berkheim Regio Model extension - possible enhancements for HPP
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"Frontend task definition and delegation
+Review of current progress"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"HPP Presentation for Orlen (live demonstration + Q&A)
+HPP Presentation for Berkehim"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"Colab w/ Anton -  Reporting Template
+Dev. testing - bug found (project repository getting ""cleared"")"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Visualization
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Internal meeting, frontend planing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;"Discussion with Siva-K - hpp vm upgrade
+Update of the wiki - closed project info
+Review of H2 Study that was completed by a 3rd party - analysis of their work (due to the ongoing project - Berkheim)"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"Regular technical meeting
+Review of the reporting progress
+Review of the latest model"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;"New H2 Posibility - BCR Phase 2 (customer was satisfied w/ phase 1) - they are requesting another phase
+- preparation work
+- latest model update"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;New Project proposal - data collected, model built, missing some additional information (questions sent towards the potential PM)
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"HPP Converter Node - rootcause analysis > image analysis (Node-RED)
+New tasks creation"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Task distribution, Node-RED upgrade (discussion) > node converter (html - pdf)
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"weekly technical meeting
+BCR wiki update
+Aruba (potential new project) data collection
+Review of the UI changes w/ developers"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"Bi-weekly meeting
+UI tasks prep."
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;TS tests + Project Repo tests
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;TBA
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Dashboards related work / colab
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Regular technical meeting, change review, task distribution
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;pre-meeting review of all changes / roadmap
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;"Technical meeting, Frontend changes review / model ""fit"""
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Aruba customer meeting + presentation / possible new project
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;"New possible project - in Australia - material preparation + ppt
+reported issue with HPP - live troubleshooting and hotfix"
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Task creation and distribution before the vacation
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;after vacation team sync
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;BESS reported issue check (old model)
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;2;OPTIMAX Demo for FPSO / E-House | Technical Discussion
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;1;Customer satisfaction meeting - EMS for ships + AEC news
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;1;Portfolio study
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;2;EMS for ships meeting + consultancy
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Kickoff meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;FDS Walk trough
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Sharepoint Set Up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Weekly meeting w/ Lars + Backup set up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Modelica support work, back up set up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Back Up Set Up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;FDS Study, Signal list finalization
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Weekly meet up + internal sync
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Signal check up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Preprocessing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;"Internal ""battle plan"" meeting / sync"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"Weekly meet up
+Node-red missing flows / fix"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Forecast study
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Dashboards work
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Node flows fix
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Weekly meet up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;Last update meeting before the break. + FAT
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"Project management related work - clean up, hours reported
++ work on dashboards"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Network prerequisites check Hyper-V X VMware ESXi
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Status update, engineering tasks walkthrough, tab testing (entry values > signals - redis), heat prognosis sync
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Parameters Inputs
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Parameters Inputs
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;5;Forecast parameters signals creation and testing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Weekly Meet Up / Updates
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;5;Optimizer + parameter signal input testing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Dashboards adjustment
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Q&A session
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;5;Dashboards sync + coop
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Customer feedback review
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Internal Sync, revision of the work and feedback from DKABB
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Weekly Status Update Meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Internal Sync > Dashboards update + switch parameters dev.
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Norfors internal sync, switch button dev.
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"Dashboard signals post-processing (sum for the boilers)
+Model sync"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Weekly meet up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;FDS walk-through task updates / internal clean up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Sync and planning meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;OPC UA Communication Establishment
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Heat prognosis connection - Model + new script prep. + testing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Model deployment + testing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Points walkthrough, production units update
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Tasks distribution / internal team meet up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;regular check up, dashboard changes
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;internal team sync due to previous absence
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;MQTT Python script upload recherche
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;1;Final handover of the technical documentation since JT is working abroad
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;1;FAT Review
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;Final preparation for the IBN + alarms
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;3;Optimax Cloud IBN: Raststätte Glarnerland
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;Störungsbehebung Glarnerland
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;KickOff
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;External meeting
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;"Internal follow up + sync
+Material study"
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;Q&A
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;5;"Report preparation
+Internal + external discussion / sync
+Data pre-processing"
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;"Report preparation
+Data pre-processing"
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;Internal sync, new tasks distribution
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;3;Pre-processing, env. set up
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;941P0024_OPTIMAX Study Biocat Roslev Rybjerg - Virtual presentation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;Biocat Roslev - Input to the report on modeling and results
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;Draft report and results adjustments and details /w Lars & JB
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;meeting w/ Lars + JT - OPC UA connection discussion
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;OPX Env. Set up - Tables
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;Status update, task walk through
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;ABB and Biocat Roslev - Report evaluation call
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;Internal Handover document completion
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;External Kickoff - switched for Monday (haven't had open this project for Monday)
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;5;Model preparation + testing
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;Jour Fixe Meeting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Preprocessing - data collection / definition of parameters and variables
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Data analysis and collection
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;H2 Regio Berkehim / Goal Definition
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;Input data analysis + model adjustment
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Model adjustment as per the latest definition of targets
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Walkthrough of the Steinbeis study
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;model work
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Input data related work
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Model review, update meeting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Data sort, parameters set up
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;Internal sync
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;4;Review of work done, sync due to previous absence, model review
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;update presentation, parameters adjustment, over-weekend calculation review
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Timeseries generator - backend
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;Timeseries generator - fixing errors
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;overwiew - frontend
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;Timeseries generator - backend
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;Timeseries generator - fixing errors
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;Timeseries generator
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Timeseries generator
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;On Focus Out / In - overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;On Focus Out / In - input system
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Exchange rate
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Exchange rate
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Exchange rate
+2WAA068585;Ene vision;Engineering;Development;2.1.2.04;1;
+2WAA068585;Ene vision;Engineering;Documentation (FDS);2.1.2.01;2;
+2WAA068585;Ene vision;Engineering;Documentation (FDS);2.1.2.01;2;
+2WAA068585;Ene vision;Engineering;Documentation (FDS);2.1.2.01;1;
+2WAA068585;Ene vision;Engineering;Documentation (FDS);2.1.2.01;1;
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;3;Dashboards
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;3;Manual add of the missing input data
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;5;Dashboards
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Dashboards
+2WAA068585;Ene vision;Project management;Project meetings;2.1.1.02;2;
+2WAA068585;Ene vision;Project management;Project meetings;2.1.1.02;1;
+2WAA068585;Ene vision;Project management;Project meetings;2.1.1.02;2;
+2WAA068585;Ene vision;Project management;Project meetings;2.1.1.02;1;
+2WAA068585;Ene vision;Project management;Project meetings;2.1.1.02;1;
+2WAA068585;Ene vision;Project management;Project meetings;2.1.1.02;2;
+2WAA068585;Ene vision;Project management;Project meetings;2.1.1.02;1;Meeting with Jan Bitta to address needed changes
+2WAA068585;Ene vision;Engineering;Simulation;2.1.2.06;3;
+2WAA068585;Ene vision;Engineering;Simulation;2.1.2.06;4;
+2WAA068585;Ene vision;Engineering;Simulation;2.1.2.06;4;
+2WAA068585;Ene vision;Engineering;Simulation;2.1.2.06;5;Problem with NaN values in input from EneVision
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;4;
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;8;FAT day
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;VPN
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;3;Script for autodownloading data from JEPX
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;Examination of the input and output files
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;3;
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;EneVision providing wrong data in the data
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;SFTP server sending same data with wrong values
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Dashboards, script replacement for output files
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Script for archiving the old files implementation
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;"Connectivity issues.
+Correction Plan"
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;Debugging Correction control plan
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;3;Debugging of Correction control plan and meeting with Jan Bitta
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;Correction plan testing
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Correction plan
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;Possible implementation of Correction Plan to EneVision server
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Correction plan testing
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Correction plan testing
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Correction plan test
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Handover testing
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;4;Preparing of the handover
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;System installation;2.1.2.02;1;VPN installation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;Trying to install SiteEMS.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;8;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;VM for DE ABB in Azure
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;6;"Helping Bernhard and Anton with OPX 6.4.0.
+Finishing H2 P2X (NO ABB).
+Fixing H2 Valleys (DE ABB)."
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;4;Setting up DEMO VMs for ITABB
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;Setting up DEMO VMs for ITABB
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;optimaxdemo
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;4;Verification of every VM in DEABB Azure subscription for OS version and OPX version
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;Verification of every VM in DEABB Azure subscription for OS version and OPX version
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;OPX 640 VHD added to Azure
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;Setting up AADSSO for external user on HPP Sizing tool
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;HPP Sizing tool not working
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;Preparing 2024-07-19 OPX ks iso and uploading to Azure.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;Adding VMs for ITABB demo
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;3;New VM for P2X
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;2;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;4;OptimaxDemo fix, EUOPC VM malware fix
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;4;New 6.4 VM VHD file preparation
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;opx-hynamics-upgrade VM
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Optimax - demo;2.1.2.06;1;Check VM after upgrade
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Shell - meeting ETCA Load Scheduler
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Shell meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;2;Creation of VM and Installation of OPTIMAX
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;1;Node-red python installation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;2;Installation of OPX 6.4 VM for Shell
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;1;Backup of the old VM and deploy to new VM
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;1;Configuring VM network
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Installation of the VM in Azure and adding the temp license. Modeler 1.22 installed.
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Optimax installation in DK Cloud for Norfors
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Meeting with Norfors
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;User account group creation
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;User accounts group script
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Norfors user accounts
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;User accounts meeting with Lars
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;2;VM Installation in Azure
+2WAA073102;Energy Efficiency module GTB EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;KO Meeting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Modelica and Node-RED pythong install
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Tomtebostrand VM
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Modification of Nodered package with python
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Fixing AAD SSO access to Tomtebo VM
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Tomtebo - resolver issues
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Creating new VHD for SEABB Azure. Install OPX 6.4 for NUS Prestudy.
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Parsing SAF files
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Data Import
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Importing data into database
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Data simulation scripts
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;5;Data Simulation scripts, Dashboards
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Data simulation scripts
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;FDS documentation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Preparing data and case scenarios
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;6;Installation of FireEye on VMs (devOps), documentation for FDS
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Gasum Dashboards
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Checking what's done so far for Gasum
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Documentation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;IAT/FAT/SAT documentation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Documentation, meetings, AAD SSO on TestVM
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;SAF Heat Storage value converting, FAT preparation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;6;Meetings, Model connection, SAF conversion
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;6;Meetings, Model connection, testing
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Gasum data import SAF script
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;8;Debugging of optimizer, preparation of new script for 6 different files from SFTP
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Loiste data
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;7;Documentation, Scripting for SAF export, meetings for FAT
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;7;Export data, partial import to sandbox, preparation for FAT, FAT
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Gasum Meeting, Export script edit
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Gasum internal meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;SAF SFTP script
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Gasum meeting, SAF script update
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Meetings, backup of old Sandbox
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;SAT documentation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Gasum Loiste SAT preparation document
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;7;Gasum meeting, SAT documentation preparation, new VM preparation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;8;SAT documentation, completing production VM
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;5;SAT
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;5;Completion of documentation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Gasum Meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Test for Gasum sandbox update to 6.4
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Meeting for new Gasum project
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;3;Configuration of AAD SSO on OPX in Gasum Azure
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;4;AAD SSO - Trying to resolve problem. Install of Modelica and Optimax Docs.
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;2;Creating of VM and OPTIMAX installation
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;2;AAD SSO problem in Gasum Azure
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;1;Configuring AAD SSO on the test VM
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;1;SFTP configuration
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;1;SFTP configuration
+2WAA074259;Gasum Loiste;Engineering;Installation;2.2.3.1.09;1;Setting up AAD SSO on test VM with UPN
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;2;Meetings with Gasum and FIABB
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting for Gasum project
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting for Gasum project
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;2;Meetings for Gasum project
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;2;Gasum Meeting
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;2;Meetings with Gasum and FIABB
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with Gasum / FIABB
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with Gasum / FIABB
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with FIABB and Gasum
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with FIABB
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Kick-off meeting
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with Gasum and FIABB
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with Richard about Model
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with FIABB. Meeting with Joonas.
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;1;Meeting with FIABB and then Joona
+2WAA074259;Gasum Loiste;Engineering;Meeting;2.2.3.1.06;2;Follow up meeting with FIABB. Meeting with EC team for DevOps.
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;2;Reading available documentation
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Internal Kick off meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Documentation reading
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Pre-internal KO meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;3;Presentation preparation for Senatobia, internal kick off
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;2;Senatobia presentation preparation
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;KO Meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Senatobia weekly meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Senatobia meeting and Documentation reading
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Senatobia meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Senatobia meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;3;Meeting with USABB. Reading of documentation, FDS writing.
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Senatobia weekly call
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;3;MODBUS connectivity with Weather station
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Senatobia meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Weekly Meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Biweekly meeting with customer
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Weekly Meeting
+2WAA076225;Camp del Din;Engineering;Documentation;2.2.3.1.01;1;Reading the documentation
+2WAA076225;Camp del Din;Engineering;Documentation;2.2.3.1.01;2;reading documentation
+2WAA076225;Camp del Din;Engineering;Documentation;2.2.3.1.01;2;Camp del Din - Scenario documentation
+2WAA076225;Camp del Din;Project management;Int. Communication;2.2.2.1.06;1;Kick off meeting
+2WAA076225;Camp del Din;Project management;Int. Communication;2.2.2.1.06;1;Internal meeting with JT, JB and Richard
+2WAA076225;Camp del Din;Project management;Int. Communication;2.2.2.1.06;1;Camp del Din - meeting with ITABB
+2WAA076285;P2X Solutions project - Optimax support;Engineering;Engineering;2.1.2.03;2;P2X creating VHD file and uploading
+2WAA076285;P2X Solutions project - Optimax support;Engineering;Engineering;2.1.2.03;2;P2X OPTIMAX deployment
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;7;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;HPPST new model
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;New model params update
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;New model params update
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;New model params update
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;New model params update
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;New model params update, model testing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model input params
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;redis issues
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;redis issues
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model input params
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;new localhost optimax version 6.4.0
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;new localhost setup
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;new model testing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;7;new model testing, devops tasks, roadmap, team meetings
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;devops tasks, roadmap
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;devops tasks, roadmap, sizing tool versions comparison
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;post system update model testing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;new model updates
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;new model updates
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;new model timeseries
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model timeseries
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model timeseries and meta
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;new model meta data
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model timeseries, params
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model results comparison
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;8;new model results comparison, meeting, UI new changes review
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;UI updates
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;UI updates
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;backend to UI changes
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;backend to UI changes
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;backend to UI changes
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;5;JB model setup update - fixed production
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;battery parameters addition to prod
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;UI and backend tests
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Purchase order administration.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Up-date Planisware.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Up-date Planisware.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Up-date Planisware.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;2;Meeting for NORDD issues.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;2;Up-date Planisware.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Up-date Planisware.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;2;Fixing February Timesheet for Jan Bitta. Recording PO 3797123092 rev.4.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Fixing February Timesheet for Robert Stodulka and Jan Talavasek.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Task list review with Lead Engineer.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Planisware up-date.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Planisware up-date.
+2WAA064049;ADNOC OPTIMAX Pilot;Project management;General project coordination;2.1.1.01;1;Adnoc project escalation with Lead engineer.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Up-date in Planisware.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer. Purchase order administration.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Habshan - Schedulling with Lead Engineer.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Habshan - Schedulling with Lead Engineer. Invoicing 2024.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;PLW up-date.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Purchase order rev.4 handling.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Planisware up-date.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer. Digital project overview.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA064458;Habhsan 5;Project management;Project Coordination;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Studying documents from Klara.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Studying documents from Klara.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Studying documents from Klara.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Studying documents from Klara.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Studying documents from Klara.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Studying documents from Klara.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Up-date in Planisware.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Up-dating in Planisware.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Up-dating in Planisware.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Digital project overview.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Studying documents from Klara.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Up-date Planisware.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;PLW up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Meeting with Lead Engineer. PLW up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;PLW up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;PLW up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;PLW up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;PLW up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Digital project overview.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;PLW up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;2;Recording new PO into system. Invoicing request preparation.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Invoicing request preparation.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Planisware up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Planisware up-date.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;2;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Ecopetrol - status. Digital project overview.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Ecopetrol status with Klara and Mladen Kasler. Digital project overview.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara. Planisware project up-date.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Up-dating in Planisware.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Up-dating in Planisware.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Ecopetrol - status.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Up-date Planisware.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;2;Meeting with Lead Engineer. Digital project overview.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;PLW up-date.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;PLW up-date.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer. Digital project overview.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Communication with Guillermo Lamana.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer. Digital project overview.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Communication with Guillermo Lamana / Diego Olivares.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Invoice 91450936.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Planisware up-date.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Ecopetrol escalation with Lead engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer. Digital project overview.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer. Digital project overview.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Meeting with Klara and Jan Talavasek. Studying documents from Klara.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Digital project overview.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Studying documents from Klara.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Meeting with Jan Talavasek. Up-dating in Planisware.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Up-date in Planisware.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Meeting with Jan Talavasek.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Digital project overview. Communication with IAEN FR Automation.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Meeting with Lead Engineer.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Meeting with Jan Talavasek. Optimax Carpentras - project status with customer.
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;Optimax Carpentras - project status with customer.
+2WAA071891;Sara Kulturhus 2024;Project management;General Project Management;00;1;Up-date Planisware.
+2WAA071891;Sara Kulturhus 2024;Project management;General Project Management;00;1;Fixing February Timesheet for Jan Talavasek.
+2WAA071891;Sara Kulturhus 2024;Project management;General Project Management;00;1;Invoicing Request # 20 (January 2024).
+2WAA071891;Sara Kulturhus 2024;Project management;General Project Management;00;1;Recording PO 4575306125 into CRM.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Fixing February Timesheet for Jan Bitta. NORRD reporting.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;NORRD reporting.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Ticket 45511 Adding WP-12081.04 to project PRJ-12081 (FKEENRD24-W001).
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Adding Adam Johann Luzar into PLW.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool review with Jiri Simsalek.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Sprint Overview.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;"HPP Sizing Tool - Sprint Overview.
+NORRD up-date."
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Rebilling Ecloud invoice.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Rebilling Ecloud invoice.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Sprint Overview.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Sprint Overview.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Update with Adam Luzar.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;NORRD workpackage preparation.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;NORRD reporting  4/2024.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Sprint Overview.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;NORRD reporting  5/2024.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Adding Richard Paprok into Planisware.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Rebilling Q2.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;NORRD reporting  6/2024.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Team Sync.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Team Sync.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing Tool - Sprint Overview. Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Team Sync.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Team Sync.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Team Sync.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Sprint Overview.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Sprint Overview.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Team Sync.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool Team Sync.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Sprint Overview. NORRD project up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Planisware up-date.
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Cloud rebilling.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Kick-off Accenture & ABB.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;PLW Structure preparation.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;PLW Structure preparation.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;PLW Structure preparation.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;"PLW up-date.
+Create folder on Share Drive."
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Engineering hours review with Lead Engineer.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date - recording planned hours.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview. Planisware up-date.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Review of timing from Remco.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;"Shell ETCA - progress so far and moving forward - internal meeting.
+Timing review."
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Meeting with Lead Engineer. Digital project overview. Shell ETCA - progress so far and future approach.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date (new distribution of engineering hours).
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview. Project Portfolio reporting.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer. Digital project overview. Project Portfolio reporting.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer.
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Meeting with Lead Engineer.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;1;Up-date Planisware.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;2;Clarification between projects Optimax Demo (FKEENRD24-W001) and Optimax 6.3 Upgrade (FKEENDE24-W001). Review with Lead Engineer.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;1;PLW up-date.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;1;PLW up-date.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA072096;Optimax 6.3 upgrade;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA073102;Energy Efficiency module GTB EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Planisware up-date.
+2WAA073102;Energy Efficiency module GTB EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Purchase Order clarification.
+2WAA073102;Energy Efficiency module GTB EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Purchase Order clarification.
+2WAA073102;Energy Efficiency module GTB EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Project up-date in Planisware.
+2WAA073102;Energy Efficiency module GTB EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;C14332 RENNES METROPOLE BMS: kick-off.
+2WAA073701;Optimax Support Switzerland 2024;Project management;General Project Management;2.1.1.01;2;Planisware project creation. Engineering hours recording.
+2WAA073701;Optimax Support Switzerland 2024;Project management;General Project Management;2.1.1.01;1;Planisware up-date.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;2;Planisware project creation. Engineering hours recording. PO 4500604967 processing.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Planisware up-date. Handover preparation.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Handover document review.
+2WAA074018;Biocat Roslev Optimax;Project management;General Project Management;2.2.2.1.01;1;Handover document review.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Creating project in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Recording PO # 4511966967 into system.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA074259;Gasum Loiste;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075256;Senatobia Extension OPTIMAX;Project management;General Project Management;2.2.2.1.01;1;Project creation in Planisware.
+2WAA075256;Senatobia Extension OPTIMAX;Project management;General Project Management;2.2.2.1.01;1;Planisware - project up-date (adding resources).
+2WAA075256;Senatobia Extension OPTIMAX;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075256;Senatobia Extension OPTIMAX;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075256;Senatobia Extension OPTIMAX;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075256;Senatobia Extension OPTIMAX;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075256;Senatobia Extension OPTIMAX;Project management;General Project Management;2.2.2.1.01;1;Invoice 91477896 handling.
+2WAA075284;H2 Regio Berkheim;Project management;General Project Management;2.2.2.1.01;2;Project creation in Planisware. Engineering hours recording into PLW. Purchase order recording into system.
+2WAA075284;H2 Regio Berkheim;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075284;H2 Regio Berkheim;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075284;H2 Regio Berkheim;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA075284;H2 Regio Berkheim;Project management;General Project Management;2.2.2.1.01;1;Project up-date in Planisware.
+2WAA076225;Camp del Din;Project management;Int. Communication;2.2.2.1.06;1;PLW project creation
+2WAA076225;Camp del Din;Project management;Int. Communication;2.2.2.1.06;1;Project creation.
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;COMMISSIONING;07;6;Customer feedback implementation
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Communication;02;2;Project meeting, testing
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Communication;02;2;Meeting preparation and meeting
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Communication;02;1;Project partners communication
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;customer feedback implementation;13;2;Meeting with customer
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;2;Optimizer upgrade
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;2;Dashboard upgrades
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;4;Optimizer debugging and upgrades
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;4;Optimizer debugging and upgrades
+2WAA068585;Ene vision;Engineering;Development;2.1.2.04;4;Debugging and upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Optimizer settings, data management
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT preparation
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT preparation
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT preparation
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT preparation
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;FAT/SAT
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;testing
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Customer feedback collection, project communication
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;3;Application of customer feedback, KPI calculations
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Application of customer feedback, KPI calculations
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Application of customer feedback, KPI calculations
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Customer feedback implementation, debugging and improvements
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Customer feedback implementation, debugging and improvements
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Customer feedback implementation, debugging and improvements
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;8;Debugging and upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Debugging, upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;5;Debugging and upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;6;Debugging and upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;6;Transfer from dev to production server
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Debugging and upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging, upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Debugging and upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging, upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging, upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging, upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging, upgrades
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;5;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;3;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected data optimization
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;4;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;2;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA068585;Ene vision;Engineering;Optimax Engineering;2.1.2.05;1;Corrected optimization and debugging
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;5;Optimizer message settings
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;2;Project meeting and communication
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;1;Project meeting
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;2;Modelica model/Optimizer report upgrade
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;Optimizer debugging.
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;Optimizer settings, testing and testing report
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;Optimizer settings, testing and testing report
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;Optimizer settings, testing and testing report
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;1;regular meeting
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;Report - load and price predictions
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;2;Team meeting, Heating/cooling model specifications
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;6;Heating/cooling model - definition, objects
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;3;Heating/Cooling optimization development
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;2;Heating/Cooling optimization development
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;3;Meeting, heating/cooling optimization development
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/Cooling optimization development
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;6;Heating/Cooling optimization development
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/Cooling optimization development
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/Cooling optimization development
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Meeting, heating/cooling  optimization testing
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/cooling optimization testing
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/Cooling model testing
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/Cooling model testing
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Project meeting, heating/cooling model upgrades
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/cooling optimization implementation
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/cooling optimization setting, testing report creation
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/cooling optimization setting, testing report creation
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;Heating/cooling optimization setting, testing report creation
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing Tool
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;HPP Sizing Tool and Optimax presentation with Power2X
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP SIzing Tool - Model upgrade meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP SIzing Tool - regular meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing Tool - Meeting about future development
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool - Meeting about development
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;HPP Sizing Tool - Development talks
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing Tool - Backlog
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing Tool - Backlog cleanup
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Meetings, internal talks
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;HPP Sizing Tool meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Meeting, development talks
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;meeting, planning
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Technical solutions discussion
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Technical solutions discussion
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Meeting, planning future progress
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;Regular meeting, development talks
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Meeting and planning
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;regular meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Cooperation on frontend upgrades
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Orlen presentation
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Report generator
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Steve Chong consultation
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;Optimizer development
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;HPP Sizing Tool - Consultation BESS issues
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Jan Bitta;2.1.2.05;2;HPP Sizing Tool meeting, development, testing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Jan Bitta;2.1.2.05;1;HPP SIzing Tool - regular meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Jan Bitta;2.1.2.05;1;Regular HPP Sizing Tool meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;FDS consultation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;FDS - Load scheduling
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;FDS - Load scheduling
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;FDS - Load Scheduling, cost function specs
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;FDS cooperation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;FDS
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;FDS, team communication
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Project tasklist cooperation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Cooperation on Modelica model development
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;RTO Model development
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;RTO Model development
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;RTO model
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;RTO model
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;Model development
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Digital twin, optimizer settings
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Model development
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Nofors - Modelica model  development
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Modelica model development
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Nofors - Optimizer testing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;Nofors - Optimizer testing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Optimizer settings
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Optimizer settings
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Optimizer settings
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;Kick off
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Model preparation, component testing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Model preparation, component testing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Model preparation, component testing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Model preparation, component testing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Model preparation, component testing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;5;Model and Optimizer setting
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;Model and Optimizer setting
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Model and Optimizer setting
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;5;Model and Optimizer setting
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;5;Data preparation, optimizer tuning, data processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;3;Data preparation, optimizer tuning, data processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;Data preparation, optimizer tuning, data processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;Data preparation, optimizer tuning, data processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;Data preparation, optimizer tuning, data processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;3;Optimization runs
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Optimization runs
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Calculations, meeting
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;8;Meeting, changes in model
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;Optimization changes implementation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;Optimization changes implementation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;5;Optimization changes implementation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Results presentation and transfer
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Dashboards cooperation, data processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;High and low electricity cost optimization preparation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;Threshold values export
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Optimax training
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;BESS Implementation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;5;BESS Implementation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;3;BESS Implementation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;3;BESS Implementation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;BESS variant modelling
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;BESS optimizer debugging
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;4;Optimization automation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;6;BESS Optimization processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;3;BESS Optimization processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;BESS Optimization processing
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;1;Results presentation
+2WAA074018;Biocat Roslev Optimax;Engineering;Engineering;2.2.3.1.03;2;Data export for customer
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Kick off meeting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Questionnaire preparation
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Questionnaire, project specs
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Regular meeting, problem definition cooperation
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Meeting, cooperation on model definition
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Model creation cooperation
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Model creation cooperation
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Tomtebostrand kick off
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;"Tomtebostrand - Kick off
+NUS - Model definition
+Meeting"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;NUS - Model development
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Model/Optimizer debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;6;Model/Optimizer debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Model upgrade talks
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Weekly Meeting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;CO2 accounting, dashboards
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;CO2 Accounting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Heat storage, model upgrades
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Meeting, Modelica objects development
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Model upgrade
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Model and optimizer upgrades
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;6;"NUS Umea - Model and optimizer upgrades
+Tomtebostrand - Model and optimizer debugging"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;"NUS Umea - Modelling and optimization
+Tomtebostrand - Model debugging"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;"NUS Umea - Modelling and optimization
+Tomtebostrand - Model debugging"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;5;"NUS Umea - Modelling and optimization
+Tomtebostrand - Model debugging"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;NUS Umea - Modelling and optimization
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Model and optimization settings
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;6;Data processing, optimization tasks
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Optimization, dashboards, meeting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;6;Meeting, dashboards model upgrade
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;meetings
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Model/optimizer development
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Model/optimizer development
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Model/optimization development
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Model/optimizer development
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Optimization testing
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Optimization debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;6;Meeting, optimization debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Meetings, model and optimization debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Optimization upgrades and debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Meeting, Optimization testing
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Optimization debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Optimization debugging
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;5;Optimizer debugging and meetings
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Optimiziation check
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Optimization fine tuning
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Optimization fine tuning
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Optimization fine tuning
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Optimization fine tuning
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Optimization fine tuning
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Gasum - model development
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Gasum - model development
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Model definition, debugging
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Model debugging
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Modelling support
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Meeting with customer
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Kick off meeting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;Kick off
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Kick off meeting with customer
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;4;Model definition and creation
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Meeting, questionnaire preparation
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Questionnaire
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Meetings, model setting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Model setting, data preparation
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Data sources
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;data preparation
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Data, model
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;4;Load data processing
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Model + optimization development
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;5;Model + optimization development
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;4;Model + optimization development
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;4;Model + optimization development
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Model + optimization development
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Model and optimization development
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;2;Meeting, presentation preparation
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;4;Meeting + Sizing optimization
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Sizing Optimization
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Sizing Optimization
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Sizing Optimization
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;4;Meeting + Sizing optimization
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Dashboards;03.1;2;Cooperation on details in user interface
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;9;Remote tests with Santhanam on site. Implementation of patches
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;5;Remote tests with Santhanam on site. Implementation of patches
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;6;Tests with Santhanam on site
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;5;"Arrived to office, handling all necessary documentation.
+Meet with Santhanam, leave early"
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;7;"Plan work with Santhanam, prepare all necessary things for site visit.
+Prepare documentation"
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;7;Preparing for a site visit, documentation files. Consulting steps to be proceed with R&D
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;7;Preparing for a site visit, documentation files. Consulting steps to be proceed with R&D
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;10;"Working on site
+Current system check, backup, deploy new system restore backup"
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;10;Working on site, new system configuration, OPCUA connection. License transfer
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;10;"Working on site.
+Deploy report package ,transfer reports config files, set up networking. Check reports flow, overall system check, prepare system for weekend load test."
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;10;Work on site
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;10;Work on site
+2WAA064458;Habhsan 5;COMMISSIONING;Commissioning in site;2.1.3.01;10;Work on site
+2WAA064458;Habhsan 5;Engineering;Documentation Update;2.1.2.03;1;Documentation Update
+2WAA064458;Habhsan 5;Engineering;Documentation Update;2.1.2.03;3;"Update end documentation
+Preparing documentation for test system"
+2WAA064458;Habhsan 5;Engineering;Documentation Update;2.1.2.03;1;Documentation
+2WAA064458;Habhsan 5;Engineering;Documentation Update;2.1.2.03;2;Update for new signal / asset types
+2WAA064458;Habhsan 5;Engineering;Documentation Update;2.1.2.03;4;Final Documentation update
+2WAA064458;Habhsan 5;Engineering;Documentation Update;2.1.2.03;2;Final Documentation update
+2WAA064458;Habhsan 5;Engineering;Documentation Update;2.1.2.03;2;Documentation Update
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;Test system settings/ development/ meetting
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;4;Working on test system
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;"Progress meeting
+Work on test system"
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;TSDB update to PG16. Check system if it helped
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;"Status meeting,
+Preparing system for test over weekend.
+Final checks"
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;System crash meeting
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;System check for memory leak
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;5;"Status meeting.
+Memory leak investigation.
+Changes in limits and VM.
+Cleaning system with Santhanam"
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;Habsan Recap with Marcin
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;1;"System check, import new device status tab.
+Check the 6.4 functionalities"
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;System 6.4 transfer test all functionalities
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;Report tranfer
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;System review, site support, OPCUA issue, downgrade to older container
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;reports
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;Demo system work, reports
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;Report deploy and tests
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;System clean due to huge disk usage, lowering the traffic on OPCUA connection
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;Final system check preparation for travel
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;Working n punchlist items
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;3;Punchlist items engineering + documentation
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;4;Developing based in punch list
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;Deploy new authserver settings, preparing documentation for this
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;5;"Input table for export prices
+Formulas for GTG fuel price"
+2WAA064458;Habhsan 5;Engineering;Engineering;2.1.2.01;2;"Modification to output csv in reports.
+Preparing deploy for new features"
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;2;"Consultancy about implementation of new request regarding status in OPCUA
++ Simple tests"
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;4;Debuging Shailesh on site
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;1;OPCUA issue meeting
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;2;Sync up meeting with Santhanam
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Preparing for call with Shailesh, consultancy about next steps. At the end call was postponed
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;4;"Consultancy with Shaliesh about excel toll he created. To found why why we have difference between input/output
+Found some missing signals, and duplicate formulas in excel"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;3;"Results from excel received from Shailesh.
+After check results match the expected values"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Python script to calculate KPIs
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Consultancy of next steps with team and manager
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Once more chceck of duplicate signals from Shailesh, compare with data we have
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;4;"Call with Shailesh and Santhanam on site.
+Testing energy calculations"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Debugging energy calc
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Debugging energy calc
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;3;Meeting with Shailesh, sampling, work on tests and support
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;KPI Issue
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Fix for graphic interface Substation
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;3;"Habshan status meeting
+Work in investigation of KPI issue"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;5;"Simulating data in system
+Preparing test documentation
+Check signals on OPCUA"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Consultancy with Radovan about test procedure and how to continue
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;5;"Test on energy function, found an issue.
+Comparing received signals vs signals used for calculations.
+Edit of energy function"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;5;Tool for Habshan in Python, to fix an issue
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;1;Habshan python tool
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;4;Tool to catch outdated singals, replace them with deafult, raise the flag
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;3;Tool for habshan
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;1;Editing tool to fix an issue with energy calculations.
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;6;"Meeting with Santahanm.
+Finishing work on tool, preparing files for handover"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;3;"Working on system, tool and KPIs
+Found in issue in KPI formulas"
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;4;Hand calculations of KPIs, result does not match, consultancy with Santahnam
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Consultancy with Shailesh
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;1;Consultancy with Radovan
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;OPCUA BadAtributteInvalidID issue discussion
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;4;Habshan visualization
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Developing visualization solution, discussion with Radovan about possible steps.
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Visualisation fix
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;2;Finishing visualistaion and testing
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;3;Finishing preparation for remote support
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;3;Work on  new point from site, tests
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 addition;2.1.2.04;1;Fix on system
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 reports;2.1.2.05;2;Download and preparing documents for test
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 reports;2.1.2.05;3;SQL function to fix the graphics
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 reports;2.1.2.05;2;Preparing new reports files and edit on functions
+2WAA064458;Habhsan 5;Engineering;SS517 & SS518 reports;2.1.2.05;2;Finishing reports
+2WAA064458;Habhsan 5;COMMISSIONING;Travel preparation, doktor visit etc.;2.1.3.02;3;Personal doctor visit to obtain copy of a medical report for Visa
+2WAA064458;Habhsan 5;COMMISSIONING;Travel preparation, doktor visit etc.;2.1.3.02;6;Doctor visit to obtain Health Certificate
+2WAA064458;Habhsan 5;COMMISSIONING;Travel preparation, doktor visit etc.;2.1.3.02;1;Travel plan
+2WAA064458;Habhsan 5;COMMISSIONING;Travel preparation, doktor visit etc.;2.1.3.02;2;Call with Santhanam about travel details, preparation
+2WAA064458;Habhsan 5;COMMISSIONING;Travel preparation, doktor visit etc.;2.1.3.02;2;Airport travel prep, preparing all necessary files for travel, last travel consultancy
+2WAA064458;Habhsan 5;COMMISSIONING;Travel preparation, doktor visit etc.;2.1.3.02;1;Reinvoicing
+2WAA064458;Habhsan 5;COMMISSIONING;Travel time;2.1.3.03;13;Departure at 6:00 from home arrived around 20:00 to the airport
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;3;Test querry for prices
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;4;Dashboards
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;5;Node-red Libraries
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;3;Dashboards and GUI overall
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;GUI consultancy
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;3;Debuging UI, + theme switch
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;Consultancy, UI work
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Update of settings interface
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;2;Support Aleks with details
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;1;Support Aleks
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Development;2.1.2.04;4;User interface development
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Development;2.1.2.04;4;User interface development
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Development;2.1.2.04;2;"Energy calculations function implementation.
+Simple calculations implementation"
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Development;2.1.2.04;2;Energy calculations function implemantation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;4;Energy function
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;2;Tests on system
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;2;Transfer GUI to customer system
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;7;System tests
+2WAA070477;Carpentras;Engineering;Engineering - chargers;2.1.2.04;4;"Meeting with FRABB, consultancy.
+PRef issue testing"
+2WAA070477;Carpentras;Engineering;Engineering - chargers;2.1.2.04;1;Scheduled status meeting
+2WAA070477;Carpentras;Engineering;Installation;2.1.2.02;2;Preparation of deployed system.
+2WAA070477;Carpentras;Project management;Meetings (kick off, customer review/ status);2.1.1.02;1;Meeting with Ivo about current status and planned work
+2WAA070477;Carpentras;Project management;Meetings (kick off, customer review/ status);2.1.1.02;1;Projektplan, preparations
+2WAA070477;Carpentras;Project management;Meetings (kick off, customer review/ status);2.1.1.02;1;Project documentation, saving all files related to project. Preparing for close up.
+2WAA070477;Carpentras;Engineering;Vizualization;2.1.2.06;1;Fix in visualization, connection dropped before finish
+2WAA070477;Carpentras;Engineering;Vizualization;2.1.2.06;2;Visualization fix on system
+2WAA070477;Carpentras;Engineering;Vizualization;2.1.2.06;2;"Visualization fix.
+New licence generated"
+2WAA070477;Carpentras;Engineering;Vizualization;2.1.2.06;1;"Fix bugs in visualization as requested from FRABB.
+Scheduled status meeting"
+2WAA070477;Carpentras;Engineering;Vizualization;2.1.2.06;2;Working on visualization details described in email from Julien
+2WAA070477;Carpentras;Engineering;Vizualization;2.1.2.06;2;Resolving issue with graphic
+2WAA070477;Carpentras;Engineering;Vizualization;2.1.2.06;2;Edits of view for operator
+2WAA071891;Sara Kulturhus 2024;Engineering;Alarms Transfer;16;2;Alerts + email alerts transfer. Cost calculation debufing
+2WAA071891;Sara Kulturhus 2024;Engineering;Alarms Transfer;16;2;Transfer Alarms to new system.
+2WAA071891;Sara Kulturhus 2024;Engineering;BMS Modbus;15;2;BMS connection revision with Abhi and Ahmed + preparation
+2WAA071891;Sara Kulturhus 2024;Engineering;BMS Modbus;15;4;Testing and documenting BMS logic and conenction
+2WAA071891;Sara Kulturhus 2024;Engineering;BMS Modbus;15;3;"Adding RTO to BMS logic
+Test on settings table, writing report."
+2WAA071891;Sara Kulturhus 2024;Engineering;Certificates;12;3;"Call with DEABB to obtain license copy for devoplmet
+Afte license update IDO does not work. Debugging"
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;1;Weekly Meeting
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;2;Weekly followup
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;4;Call with Ahmed and Abi, presentation of current status for BMS communication, consultancy of logic to be implemented.
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;2;Optimax weekly followup
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;3;"Weekly follow up
+Test of vizualisation"
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;4;"Visualization edits to be readable in light mode.
+Check calculation with excel, bug found, fixed with patch.
+Writing visualization report.
+Writing calculation report."
+2WAA071891;Sara Kulturhus 2024;Engineering;COMMISSIONING;14;4;"Visualization report finishing sent.
+Patch for HeatCoolCalculations applied tested, test report finished and sent.
+Added COP limitation based on chiller datasheet.
+Weekly follow up
+Emails fixed"
+2WAA071891;Sara Kulturhus 2024;Engineering;Dashboards;13;4;Adding dashboard after consultancu with Ahmed
+2WAA071891;Sara Kulturhus 2024;Engineering;Dashboards;13;2;"New table for setting edit.
+Adding new signals for variables"
+2WAA071891;Sara Kulturhus 2024;Engineering;Dashboards;13;2;Finishing tests of settings table, writing documentation
+2WAA071891;Sara Kulturhus 2024;Engineering;Dashboards;13;2;Finishing tests of settings table and writing documentation
+2WAA071891;Sara Kulturhus 2024;Engineering;Dashboards;13;1;Check and fixes
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;2;BMS connection consultancy
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;1;Meeting Skelleftea Optimax weekly follow up
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;"Skelleftea forecast model accuracy meeting 2h
+Skelleftea meeting 2h with JB about prev electricity optimalization"
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;1;skelleftea weekly follow up 1h
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;"Skelleftea forecast fix 3h
+Urgent forecast meeting with Ahmed 1h"
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;2;Skelleftea hand calculation check of forecast 2h
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;1;Skelleftea Metting 1h
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;3;Skelleftea engineering platform deploy transfer 3h
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;1;Meeting with JB, consultancy
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;Skelleftea meeting JB , finilazing optimalization, debuging IDO
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;1;skelleftea weekly follow up 1h
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;4;"Consultancy with Ahmed and Abi.
+Work on new system.
+Finishing developing environment"
+2WAA071891;Sara Kulturhus 2024;Engineering;Heat Optimization;06;3;Help JB with model
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;3;"""Weekly follow up.
+Visualisation"""
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;3;Visualisation
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;1;Quick consultancy with JB and small edit in model
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;3;
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;2;Help JB with model and simulating data on demo machine
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;3;"Weekly meeting
+Modbus preparation for test"
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;4;System fix, help JB with model
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;2;Meeting, and work on system, fixing COP calc and help JB with model
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;5;"Implementation of new model
+Issue with tsdb, consultancy with Abhi, fixed at theend of day"
+2WAA071891;Sara Kulturhus 2024;Engineering;Integration of heat/cooling;04;2;Consultancy with JB, work on system
+2WAA071891;Sara Kulturhus 2024;Engineering;Price Model;17;4;"Investigation of the calculation bug.
+Bug found, confirming by hand calculations.
+Apply patch"
+2WAA071891;Sara Kulturhus 2024;Engineering;Price Model;17;3;"Check the results after fixing issue.
+Cleaning databse from bad values"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Possible complications consultancy
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Load scheduling disccusion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;load scheduller discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Engineering tasks meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Data import into Historian
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Import historical data
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;BESS simulation code
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;Load scheduler planning
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Grafana custom backround
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Settings table move to 6.4
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;Reporting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;"Automated reports flow prep.
+Adding time variable to reports."
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Industrial communication;2.2.3.1.10;1;Modbus python script handover
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;2;Consultancy with R&D how to proceed update on, backup and restore to move system from 6.3 to 6.4. All the details about backup restore script. And
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Auto backup
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Auto backup
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Introduction into project, preparing backup solution as requested
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Backup script implementation
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Preprocessing, postprocessing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Preprocessing Postprocessing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;"Weekly meet up
+Signals revision
+Postprocessing"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;"OPCUA discussion
+Next signal revision
+Implementation of APIs for data"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Norfors engineer sync meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Norfors quick meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"Gas prices processing
+Preprocessing"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;"Norfors consultancy meeting
+New input table consultancy and preparation"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Consultancy, work on UI
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;"Consultancy Call with Lars
+Work on Model, work on UI"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Work synchronization meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;UI edit for buttons
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Work on system
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Graphical UI for settings of model
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Sync meeting + work on system
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Consultancy with Adam, UI fixes
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;Meeting adding limits for turbine + light overwiev
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Norfors testing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Sync Meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;engineering
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;engineering
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;engineering
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Norfors plan
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Internal sync and consultancy
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Technical sync
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Hammerbaken change in configuration
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;New points consultancy, quick fixes in the system
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Adding new inputs to asset table
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Real fuel cost and LCV meeting, engineering
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;"Based on meeting formulas for fuel updated.
+Slider logic fixed and added new variants of indicators"
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;Connection setup and test
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;3;Bess connection details
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;"System check/backup of mandatory parts/tests on BESS connection details.
+Documentation study"
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;3;engineering
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;Engineering, testing Modbus connection to BESS system
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;"Status/progress meeting.
+Preparing documentation"
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;1;Documentation
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;Deploy planning meeting
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;1;Work prep
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;IG502 start configuration and obtaining data
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;5;Establishing communication between IG502 and cloud, setting up modbus connection to cloud
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;3;Modbus, system setting
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;"Python script re-check.
+Sync with DEABB
+Preparing next steps"
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;1;Glarnerland BESS plan
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;4;Glarnerland BESS
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;Glarnerland sync, preparing for final migration
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;1;Meeting with Jan, project plan and final execution preparation
+2WAA073701;Optimax Support Switzerland 2024;Engineering;Glarnerland cloud migration;2.1.2.03.1;2;"Final handover of project to Adam, constancy with R&D about potential issues, small fixes on system, system observation.
+Check on issue with batteries"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Internal kickoff, SharePoint creation, consultancy
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;SFTP configuration
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Model connection to live signals
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Data Import
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;3;Weekly Meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;3;System check, getting basic info, preparing node red for communication via Modbus
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;1;Weekly Meeting
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;2;Change order discussion
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;3;Senatobia weekly meeting + engineering
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;2;Senatobia Modbus test tool modification
+2WAA075256;Senatobia Extension OPTIMAX;Engineering;Engineering;2.2.3.1.03;3;Engineering + meeting
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;1;
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;3;
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;4;
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;3;
+2WAA068585;Ene vision;Project management;Project management;2.1.1.01;3;
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;
+2WAA070477;Carpentras;Project management;General Project Management;2.1.1.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Data access;2.1.2.03;3;Signal list input to OPX on VM
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Data access;2.1.2.03;1;consultation about execution
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Data access;2.1.2.03;2;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Data access;2.1.2.03;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Data access;2.1.2.03;2;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;FDS, FAT/SAT documentation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;FDS, FAT/SAT documentation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;FDS, FAT/SAT documentation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;FDS, FAT/SAT documentation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;FDS, FAT/SAT documentation
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Documentation;2.1.2.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;3;Data simulation, calculations and visualizations
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;Weekly progress meetings
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;Weekly progress meetings
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;Weekly report meetings
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;Weekly report meetings
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;Progress meeting
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;Progress meeting
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;internal meetings and emailing with LBU
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;2;internal meetings and emailing with LBU
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;2;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;internal meetings and emailing with LBU
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;internal meetings and emailing with LBU
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Project management;Planning & meetings;2.1.1.02;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Simulation/ FAT;2.1.2.06;3;Setting up data simulation on VM
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Simulation/ FAT;2.1.2.06;2;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Simulation/ FAT;2.1.2.06;4;calculations update and onsite opx update
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;Preparing OPX for installation on site.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;Preparing OPX for installation on site.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;Preparing OPX for installation on site.
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;4;Backup and preparation for transfer of functionalities
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;2;Transfer of signals and assets to production server
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;2;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;1;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;3;FDS tasks & responsibilities meeting and preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;1;Planning FDS meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;4;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;3;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;3;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;3;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;3;FDS creation and updates
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;2;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Documentation;2.2.3.1.01;4;FDS creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Sunspec modbus meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Network meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Load scheduler discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Load scheduler discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Load scheduler discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Alarms and maintenance internal discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Weather forecast research and discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Hardware prerequisites discussion and research
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Final FDS discussions on various tech topics
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;meetings
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;engineering execution planning
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;open-meteo and modbus conversion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Sonnen Modbus meeting + ETCA pres discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Presentation and Process meetings
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;Presentation & Planning meetings
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;engineering process planning
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Planning & Roles feedback | Accenture & ABB
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Project planning
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;"NLABB//OPC: ETCA EMS (Variation) Order
+internal weekly catchup"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;internal weekly catchup
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;Catchup ETCA
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;OPC UA forge
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;FDS comments cleanup
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;OPC UA forge
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"Engineering tasks discussion - Load Scheduler
+Engineering tasks discussion - dev VM"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"Engineering tasks discussion - IO list and dashies
+Engineering tasks discussion - modeling"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Engineering tasks discussion - ind communication
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"Accenture hand over
+Task list and other admin tasks related to project
+VM planning and setup"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;UI deployment
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"UI development
+random data sim script"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;Site Overview design
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Flexible assets sim
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"RTO graphs
+Data sim"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;"Catchup meeting /w Pedro
+Dashboard design"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Historical data import and preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"Dashboards
+Bess sim script drafting"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"Data sim script development
+BESS sim script development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"BESS sim implementation and testing
+Dashboards design"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Cascade model development
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;model dev, implementation and testing
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"model dev, implementation and testing
+modeling discussion meetings"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;model dev, implementation and testing
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;model dev, implementation and testing
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;model dev
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;DAO script development
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;6;Forecast dev, catch-up with LBU, modeling discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Forecast and modeling
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;"Client meeting follow up
+Forecast"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;6;"model
+forecast
+dashboards"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"model
+dashboard
+forecast"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;Cost function discussion
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"forecast
+model"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;forecasts and model
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"IDO forecast
+model"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"IDO forecast
+model"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"DAO forecasts (x3)
+model"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"model
+reporting ui"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;Model
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;Model
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"DAO debug
+DAO dashboard"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;IDO debugging and testing
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;RTO, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;IDA, DAO, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;RTO, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;RTO
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;RTO
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;6;"FAT protocol preparation
+watchdogs, dashboards
+FAT protocol preparation
+optimization"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;6;"FAT protocol preparation
+watchdogs, dashboards
+FAT protocol preparation
+optimization"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;watchdogs, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;watchdogs, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;6;RTO, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;RTO, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"RTO
+meetings"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;RTO, dashboards
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"dashboard presentation
+settings UI"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;2;"dashboard presentation
+settings UI"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"DAO dashboards
+DAO forecasts
+DAO optimization
+forecast and optimization sync"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"DAO dashboards
+DAO forecasts
+DAO optimization
+forecast and optimization sync"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"DAO dashboards
+DAO forecasts
+DAO optimization
+forecast and optimization sync"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"DAO dashboards
+DAO forecasts
+DAO optimization
+forecast and optimization sync"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"Optimization testing and improvement
+Feedback implementation
+Load Scheduler development"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"testing
+reports
+alarms"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"optimization and forecast debugging
+dashboards update"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;6;"testing
+reports
+alarms"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"testing
+reports
+alarms"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;"testing
+reports
+alarms"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;6;"testing
+model upgrade
+transfer to prod server"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;"testing
+model upgrade
+transfer to prod server"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;"testing
+model upgrade
+transfer to prod server"
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;2;FAT documentation creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;2;FAT protocol preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;2;FAT protocol preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;FAT docs preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;FAT docs preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;FAT docs preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;FAT docs preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;preparing fat docs
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;preparing fat docs
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;preparing fat docs
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;preparing fat docs
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;FAT protocol update
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Factory Acceptance Test (FAT);2.2.3.1.12;1;FAT meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;1;6.4 update
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;1;6.4 update
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;4;KO meeting and preparation
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;internal engineering meeting
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;internal engineering meeting
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Technical Daily Meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Technical Daily Meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Technical Daily Meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;3;meetings: EMS demo presentation & Dependencies in FDS
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Technical Daily Meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Technical Daily Meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Technical Daily Meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Load Scheduler deep dive meeting
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Technical Daily Meetings + SRS<->ABB meeting
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Daily tech standups and other meetings + Operations blueprint
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;2;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072036;Shell ETCA EMS Optimax;Project management;Int. Communicatin;2.2.2.1.06;1;Daily tech standups and other meetings
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Kick off meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Transfer of existing functionalities, signals and assets to Azure dev VM
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Transfer of existing functionalities, signals and assets to Azure dev VM
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;Transfer of existing functionalities, signals and assets to Azure dev VM
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Transfer of existing functionalities, signals and assets to Azure dev VM
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;first batch of demo graphs created
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;power to energy calculations and graphs
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;dashboards update
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Dashboards
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Weekly meet up
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Dashboards
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;dashboards update
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Sync Meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;dashboards update
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Update meeting
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;dashboard update
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;Norfors Battle Plan
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;transfer preparation and transfer
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;transfer to server
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"connection testing
+functionalities transfer"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;connectivity meeting w/adam
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;transfer completion
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"Dashboards update
+Signals and TSDB debugging"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;Dashboards update and sync calls
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;dashboards update
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;model and forecast discussion and update
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;various updates per request
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"IDO/DAO debug
+IDO/DAO dashies update"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;1;meetings
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;"table creation
+opc ua signal update
+dashboard update
+progress meeting"
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;model debug/upgrade
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;model debug/upgrade
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;model upgrade/debug
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;Project introduction
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Dashboard drafting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;meetings
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;"Tomtebostrand: Simulations
+Dashboard discussions"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;"Tomtebostrand: Simulations
+Dashboard discussions and creation"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;"Tomtebostrand: Simulations
+Dashboard creation"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;weekly catchup
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;5;"engineering meeting
+weekly report meeting
+tomtebo dashboards"
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;tomtebo dashboards
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;2;Call with Robert, Aleks and JB about OPX update 6.3 to 6.4 to Jablonec functionality plus discussion about screen issue
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Sprint Overview
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;1;Sync Meeting
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;7;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;4;
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;2;File upload bug testing and description
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;new model testing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model testing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;3;new model testing
+2WAA072034;OPTIMAX APPS&MODELS CZ 2024 WP-12081.04;Engineering;Engineering;2.1.2.03;6;new model testing
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Discussions and model analysis
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;RTO creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;RTO creation with battery
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;7;Model and Optimax optimization setup
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;7;Meeting, cost function analysis, Optimax setting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;IDO Model debugging
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;IDO model settings, problem with simulation trigger
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Non fixed load component creation in Modelica, problem with battery going to zero SoC
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;5;RTO creation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;RTO
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;RTO
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;7;meeting, adding 1MW charger into RTO
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;1MW charger tuning
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;3d, 1w and 3m DAO preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;DAOs setting
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Minor setting up changes, constraints change, bug solving
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;3;Checking of RTO
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;7;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;7;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;7;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;7;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;2;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;7;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;6;Optimization testing for different scenarios
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;7;Optimization testing for different scenarios
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;7;Model testing and report writing
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;Transfer to production server, gas price solving
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;3;5days Dashboards
+2WAA072478;Denmark Optimax Support;Engineering;Engineering;2.1.2.03;4;Norfors - HOK settings
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;2;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;8;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;5;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;6;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;7;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;5;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;4;
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;1;meeting
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;6;Start up costs simulation - preparation of scenario
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;7;Start up costs simulation
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;7;Start up costs simulation - change of code, setting up
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;3;Start up costs simulation - testing
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;1;meeting
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;4;Meeting + two H2 storages
+2WAA072499;Finland Optimax Support 2024;Engineering;Engineering;2.1.2.03;1;meeting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;7;Model creation, optimizer settings, first computations in Euros
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;6;Model debugging, conversion to crowns, update of parameters
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;7;computation of savings with batteries
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;5;Battery usage analysis, excel presentation
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;Computation of Battery profitability in phases 2-4.
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Adding and recomputation of the model with Heat Pump demand
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Creation of model with 4HUBS and one battery
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Creation of measuring component in Modelica
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;Calculation of 4HUBS
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Discussion on ancillary services counting
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;5;Meeting, adding data to OPX, Dashboard and Excel preparation
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Excel preparation for customer meeting, Study of the Excel file from customer with ancillary services computations
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;7;Tomtebostrand - Calculations of FCR-D up
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;4;battery calculations without solar panels, ancillary services calculations
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Meetings, reports
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;5;FCR scenarios, analysis of next simulations
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;3;NUS simulation support
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;7;meeting, discussion, missing simulations
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;5;Comparison of different hubs connection scenarios
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Data collection, description and upload
+2WAA074108;NUS Umea Sweden;Engineering;Engineering;2.2.3.1.03;2;Meeting+final report text Methodology
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Follow up meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;preliminary discussion
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Follow up meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Kick-off meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;FDS Overview
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Follow up meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Modelica preparation and model creation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Model creation and optimization settings
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;7;1h break between generation and store
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;6;Follow up meeting, 1h break between generation and store
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;7;Heat storage limits creation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Model testing
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;7;Meeting, dashboard, testing
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Meeting, dashboard update
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Meeting, Gasum model testing
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Search for scenario with 1hour delay between operation change of heatstorage
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;2;Change of Signals
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Renaming model, connection of new signals
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Initial Heat Storage SoC setting, triggering problems
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;4;Export of predictions to SAF file, FAT presentation creation
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;5;Loiste FAT, including final preparations for FAT
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;planning meeting
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;3;Transfer to production server, Dashboards polishing
+2WAA074259;Gasum Loiste;Engineering;Engineering;2.2.3.1.03;1;Dashboards polishing
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;meeting
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;6;Sizing optimization preparation
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;7;Sizing optimization preparation and testing
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;3;Running simulation
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;5;Running scenario
+2WAA075284;H2 Regio Berkheim;Engineering;Engineering;2.2.3.1.03;1;Results check
+2WAA076225;Camp del Din;Engineering;Development & Engineering;2.2.3.1.03;1;meeting
+2WAA076225;Camp del Din;Engineering;Development & Engineering;2.2.3.1.03;3;Study of FDS
+2WAA076225;Camp del Din;Engineering;Development & Engineering;2.2.3.1.03;2;Meeting + FDS study
+2WAA076225;Camp del Din;Engineering;Development & Engineering;2.2.3.1.03;4;Tasks analysis + FAT preparation
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;8;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;2;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;8;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;7;
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;6;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;8;data access to Adnoc solution
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;7;
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;5;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;6;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;8;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;8;Change dashboards
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;8;support JB
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;4;JB support
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Change - Reworking the model;14;8;support JB
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Communication;02;4;ABB demo support
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Dashboards;03.1;8;
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;3;New license, checking of work of models and signals
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;8;support JB
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;4;support JB
+2WAA064049;ADNOC OPTIMAX Pilot;Engineering;Engineering;03;8;ABB demo support
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;1;Consultancy
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;8;support, issue OPCUA communication
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;4;Matrikon log files
+2WAA064458;Habhsan 5;Engineering;OPCUA communication;2.1.2.02;8;Habshan OPCUA comm issue, matrikon testing
+2WAA068585;Ene vision;Engineering;Testing & Handover;2.1.2.07;4;Trying fix Node-red in Optimax
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Data access;2.1.2.03;4;Consultancy and develop
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Data access;2.1.2.03;2;
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;Engineering;Optimax Engineering;2.1.2.05;6;configure OPCUA and SFTP on Azure cloud
+2WAA069020;Optimax - ECOPETROL REFICAR Refinery Colombia;COMMISSIONING;Testing & Handover;2.1.3.01;4;Access handling
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Industrial communication;2.2.3.1.10;8;consultancy, offer prepare
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Industrial communication;2.2.3.1.10;8;consultancy, prepare, testing
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Industrial communication;2.2.3.1.10;8;consultancy communication
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Industrial communication;2.2.3.1.10;2;
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Installation;2.2.3.1.09;6;Flowcharts diagrams
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;8;
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;8;
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;8;testing communication
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;8;ABB demo support
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;8;Networking in local instance in vBox and W11
+2WAA072096;Optimax 6.3 upgrade;Engineering;Engineering;2.2.3.1.03;8;Modbus communication
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;7;IO List Preparation
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;7;IO List Finalization and Upload
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;4;Dashboarding
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;8;Dashboarding
+2WAA072036;Shell ETCA EMS Optimax;Engineering;Engineering;2.2.3.1.03;8;Dashboarding
