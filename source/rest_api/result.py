@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 from typing import Any, Dict, List
 
 
@@ -32,19 +33,26 @@ class ProjectDefinition:
 
 class ProjectResult:
     def __init__(
-        self, project: ProjectDefinition, comment: str, time: int, name: str
+        self,
+        project: ProjectDefinition,
+        comment: str,
+        datetime: datetime,
+        name: str,
+        duration: int,
     ) -> None:
         self.project = project
         self.comment = comment
-        self.time = time
+        self.datetime = datetime
         self.name = name
+        self.duration = duration
 
     def to_dict(self) -> Dict[str, Any]:
         return {
             "project": self.project.to_dict(),
             "comment": self.comment,
-            "time": self.time,
+            "datetime": self.datetime,
             "name": self.name,
+            "duration": self.duration,
         }
 
     @classmethod
@@ -52,8 +60,9 @@ class ProjectResult:
         return cls(
             project=ProjectDefinition.from_dict(data.get("project", {})),
             comment=data.get("comment", ""),
-            time=data.get("time", 0),
+            datetime=data.get("time", datetime.fromtimestamp(0)),
             name=data.get("name", ""),
+            duration=data.get("duration", 0),
         )
 
 
