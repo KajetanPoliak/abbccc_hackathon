@@ -26,7 +26,7 @@ def search_projects(
 def split_by_project(results: SearchResults) -> dict[str, list[ProjectResult]]:
     resultDict: dict[str, list[ProjectResult]] = {}
     for project in results.Items():
-        definition: str = project.GetProject().GetProjectDefinition()
+        definition: str = project.GetProject().GetProjectDescription()
         if definition in resultDict:
             resultDict[definition].append(project)
         else:
@@ -39,7 +39,7 @@ def split_by_description(
 ) -> dict[str, list[ProjectResult]]:
     resultDict: dict[str, list[ProjectResult]] = {}
     for project in projects:
-        description: str = project.GetProject().GetProjectDescription()
+        description: str = project.GetProject().GetProjectDefinition()
         if description in resultDict:
             resultDict[description].append(project)
         else:
@@ -65,6 +65,11 @@ def get_total_duration(projects: list[ProjectResult]) -> int:
     for project in projects:
         result += project.GetDuration()
     return result
+
+
+def userIdToName(id: str) -> str:
+    # in current calendar we do not have access to the attendees :(
+    return "Aleksandar CEBZAN"
 
 
 st.title("Project Search")
@@ -103,8 +108,8 @@ if st.button("Search"):
                                 f"""
                                 <div style="border: 1px solid #ddd; border-radius: 5px; padding: 10px; margin-bottom: 10px;">
                                     <p><strong>Datetime:</strong> {result.GetDatetime()}</p>
-                                    <p><strong>Comment:</strong> {result.GetComment()}</p>
-                                    <p><strong>Name:</strong> {result.GetName()}</p>
+                                    <p><strong>User:</strong> {userIdToName(result.GetUserId())}</p>
+                                    <p><strong>Subject:</strong> {result.GetSubject()}</p>
                                     <p><strong>Duration:</strong> {result.GetDuration()}</p>
                                 </div>
                                 """,

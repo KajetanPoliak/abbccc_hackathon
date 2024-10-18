@@ -1,12 +1,13 @@
-from datetime import datetime,date
 import json
 import os
+from datetime import date, datetime
+
 from flask import Flask, jsonify, request
 from result import ProjectDefinition, ProjectResult, SearchResults
 
 app = Flask(__name__)
 
-with open("./data/data_cleaned.json", encoding="utf-8") as f:
+with open("./data/data_results.json", encoding="utf-8") as f:
     data = json.load(f)
 
 results = SearchResults()
@@ -17,18 +18,23 @@ for event in data:
         time_start = datetime.fromisoformat(event["start"])
         results.Add(
             ProjectResult(
-                project=ProjectDefinition(project_description = "xx", #event["project_description"]
-                                        project_definition="yy", #event["project_definition"]
-                                        activity_description="zz", #event["activity_description"]
-                                        confidence = 0.99),
-            datetime_start = datetime(year=date_start.year, 
-                                      month = date_start.month, 
-                                      day = date_start.day,
-                                      hour = time_start.hour, 
-                                      minute=time_start.hour, 
-                                      second=time_start.second),
-            user_id = event["id"],
-            duration = event["duration"]
+                project=ProjectDefinition(
+                    project_description=event["project_description"],
+                    project_definition="yy",  # event["project_definition"]
+                    activity_description=event["project_activity"],
+                    confidence=0.99,
+                ),
+                datetime_start=datetime(
+                    year=date_start.year,
+                    month=date_start.month,
+                    day=date_start.day,
+                    hour=time_start.hour,
+                    minute=time_start.hour,
+                    second=time_start.second,
+                ),
+                user_id=event["id"],
+                duration=event["duration"],
+                subject=event["subject"],
             )
         )
 
