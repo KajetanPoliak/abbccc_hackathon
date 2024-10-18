@@ -62,9 +62,10 @@ class FaissIndex:
         tokenizer: AutoTokenizer,
         model: AutoModel,
         k: Optional[int] = None,
+        device: str = "cpu",
     ) -> Tuple[npt.NDArray, npt.NDArray, List[str]]:
         query = encode_documents(
-            [document], tokenizer, model, normalize=True, device="cpu"
+            [document], tokenizer, model, normalize=True, device=device
         )
         # Normalize the query vector
         query /= np.linalg.norm(query, axis=1).reshape(-1, 1)
