@@ -168,7 +168,9 @@ class KeywordSearchIndex:
             file.write(data)
 
     @classmethod
-    def from_file(cls, filename: str) -> "KeywordSearchIndex":
+    def from_file(
+        cls, filename: str = "keyword_search_index.json"
+    ) -> "KeywordSearchIndex":
         """Load the search index from a JSON file"""
         empty_index: Dict[str, Dict[str, Set[str]]] = defaultdict(
             lambda: defaultdict(set)
