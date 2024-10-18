@@ -7,6 +7,7 @@ from typing import Any, Dict, Optional, Set
 import nltk
 import numpy as np
 import spacy
+from keybert import KeyBERT
 from spacy import Language
 
 from source.utils.logging import get_stream_logger
@@ -21,6 +22,7 @@ assert __data_dir__.exists(), f"Data directory not found: {__data_dir__!r}"
 class KeywordSearchIndex:
     stopwords: Set[str] = set()
     nlp: Optional[Language] = None
+    keybert: Optional[KeyBERT] = None
 
     def __init__(self) -> None:
         self.logger = get_stream_logger(self.__class__.__name__)
@@ -35,6 +37,8 @@ class KeywordSearchIndex:
             cls.stopwords = cls.get_stop_words()
         if not cls.nlp:
             cls.nlp = spacy.load("xx_ent_wiki_sm")
+        if not cls.keybert:
+            cls.keybert = KeyBERT(model=None)
 
         return super().__new__(cls)
 
@@ -52,10 +56,10 @@ class KeywordSearchIndex:
         )
 
     @classmethod
-    def _extract_keywords(cls, text: str, use_spacy: bool = True) -> Set[str]:
+    def _extract_keywords(cls, text: str, use_ml: bool = True) -> Set[str]:
         # Simple keyword extraction by splitting on non-alphabetic characters
         # and removing stopwords
-        if not use_spacy:
+        if not use_ml:
             words = re.findall(r"\b\w+\b", text.lower())
             keywords = [
                 word
@@ -67,6 +71,18 @@ class KeywordSearchIndex:
             assert cls.nlp, "SpaCy NLP model not loaded"
             doc = cls.nlp(text)
             keywords = [ent.text.lower() for ent in doc.ents]
+            # Use KeyBERT for keyword extraction
+            assert cls.keybert, "KeyBERT model not loaded"
+            keywords += [
+                item[0].lower()
+                for item in cls.keybert.extract_keywords(
+                    text,
+                    keyphrase_ngram_range=(1, 3),
+                    stop_words=list(cls.stopwords),
+                    use_mmr=True,
+                    diversity=0.7,
+                )
+            ]
             # Remove stopwords and short words
             keywords = [
                 keyword
@@ -266,5 +282,5 @@ if __name__ == "__main__":
         ),
         axis=1,
     )
-    index.remove_frequent_keywords_from_index(threshold=3)
+    index.remove_frequent_keywords_from_index(threshold=2)
     index.save("keyword_search_index.json")
