@@ -1,0 +1,21 @@
+from source.data_processing.data_processing import DataProcessor
+from source.index.vector_index import FaissIndex
+from source.vectorization.deep import apply_vectorization
+
+
+class Pipeline:
+    def __init__(self) -> None:
+        self.dp = DataProcessor()
+        self.index = FaissIndex(dim=768)
+
+    def run(self) -> None:
+        title_body_df = self.dp.get_project_data()
+        # title_body_list = title_body_df.values.tolist()
+        # all_embeddings = []
+        # for record in title_body_list:
+        #     embeddings = apply_vectorization(record)
+        #     all_embeddings.append(embeddings)
+
+
+if __name__ == "__main__":
+    pass

@@ -9,12 +9,15 @@ class DataProcessor:
         self.date_cn = "Date"
         self.target_person = "Aleksandar CEBZAN - 9D10341573"
 
-        self.used_cols = [
-            "Project Description",
+        self.subject_cn = "Subject"
+        self.body_cn = "Body"
+
+        self.body_cols = [
             "Project Definition",
-            "Activity Description",
             "Comment",
         ]
+        self.title_cols = ["Project Description", "Activity Description"]
+        self.used_cols = self.body_cols + self.title_cols
 
     def read_data(self, file_name: str) -> pd.DataFrame:
         return pd.read_csv(self.data_dir + file_name, sep=";")
@@ -46,9 +49,26 @@ class DataProcessor:
         )
         return df
 
-    def trim_data(self, df: pd.DataFrame) -> pd.DataFrame:
+    def trim_project_data(self, df: pd.DataFrame) -> pd.DataFrame:
         df_trimmed = df[self.used_cols]
         return df_trimmed.drop_duplicates()
+
+    # def build_structure(self, df: pd.DataFrame) -> pd.DataFrame:
+    #     df.fillna("", inplace=True)
+    #     title = df[self.title_cols].apply(lambda row: ', '.join(row.values.astype(str)), axis=1)
+    #     body = df[self.body_cols].apply(lambda row: ', '.join(row.values.astype(str)), axis=1)
+    #     # return pd.DataFrame({"title": title, "body": body})
+    #     print(title)
+
+    def get_project_data(self) -> pd.DataFrame:
+        df_proj = self.read_data(file_name=self.project_data_fn)
+        df_proj_processed = self.process_project_data(df_proj)
+        df_proj_trimmed = self.trim_project_data(df_proj_processed)
+        # title_body_df = self.build_structure(df_proj_trimmed)
+        return df_proj_trimmed
+
+    # def get_email_data(self):
+    #     return [{}]
 
 
 if __name__ == "__main__":
@@ -57,7 +77,7 @@ if __name__ == "__main__":
     df_processed = dp.process_project_data(df)
     print(df_processed.shape)
 
-    df_trimmed = dp.trim_data(df_processed)
+    df_trimmed = dp.trim_project_data(df_processed)
     print(df_trimmed.shape)
     print(df_trimmed.head())
     df_trimmed.to_csv("data/trimmed_project_data.csv", index=False)

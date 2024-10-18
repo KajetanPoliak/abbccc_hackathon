@@ -5,3 +5,6 @@
 /venv/*
 /04 - Data Transformer/*
 /01 - RoboCode/*
+
+# Ignore Python cache files
+__pycache__/
