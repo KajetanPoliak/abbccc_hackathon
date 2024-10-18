@@ -1,6 +1,8 @@
 import pandas as pd
 import json
 import datetime
+from bs4 import BeautifulSoup
+import re
 
 class CalendarMeeting:
     
@@ -8,7 +10,9 @@ class CalendarMeeting:
         self.raw = raw
         self.subject = raw["subject"]
         self.body_preview = raw["bodyPreview"]
-        self.body = raw["body"]
+        self.body = raw["body"]["content"]
+        self.body_clean = self.clean_body()
+        self.body_preview_clean = self.clean_body_preview()
         self.start = datetime.datetime.strptime(raw["start"]["dateTime"], "%Y-%m-%dT%H:%M:%S.%f0")
         self.end = datetime.datetime.strptime(raw["end"]["dateTime"], "%Y-%m-%dT%H:%M:%S.%f0")
         self.timezone = raw["start"]["timeZone"]
@@ -39,11 +43,14 @@ class CalendarMeeting:
                 min_date_idx = occ.index(min_date)
                 occ[min_date_idx] = min_date + datetime.timedelta(days=7) * rec["pattern"]["interval"]          
 
-    def clean_body_preview(self):
-        pass
-
     def clean_body(self):
-        pass
+        text = BeautifulSoup(markup=self.body, features="html.parser").text
+        text = re.sub(r'(\r\n|\n|\r){4,}', r'\n', text)
+        self.body_clean = re.sub(r"_{80}.*_{80}", '', text, flags=re.DOTALL)
+
+    def clean_body_preview(self):
+        text = re.sub(r"_{80}.*", '', self.body_preview, flags=re.DOTALL)
+        self.body_preview =re.sub(r'(\r\n|\n|\r){4,}', r'\n', text)
 
     def __repr__(self):
         return f"""Start: {self.start}
