@@ -45,13 +45,14 @@ def encode_documents(
     model: AutoModel,
     batch_size: int = 8,
     normalize: bool = False,
+    device: str = "cpu",
 ) -> npt.NDArray:
     # Tokenize sentences
     # noinspection PyCallingNonCallable
     encoded_input = tokenizer(
         documents, padding=True, truncation=True, return_tensors="pt"
     )
-    encoded_input = encoded_input.to("mps")
+    encoded_input = encoded_input.to(device)
     # Compute token embeddings
     with torch.no_grad():
         # Process in batches to avoid memory issues
