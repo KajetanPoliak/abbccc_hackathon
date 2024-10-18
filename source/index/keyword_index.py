@@ -50,7 +50,11 @@ class KeywordSearchIndex:
         # Simple keyword extraction by splitting on non-alphabetic characters
         # and removing stopwords
         words = re.findall(r"\b\w+\b", text.lower())
-        keywords = [word for word in words if word not in cls.stopwords]
+        keywords = [
+            word
+            for word in words
+            if word not in cls.stopwords and len(word) >= 2
+        ]
         return set(keywords)
 
     def add_core_document(
@@ -164,7 +168,9 @@ class KeywordSearchIndex:
             file.write(data)
 
     @classmethod
-    def from_file(cls, filename: str) -> "KeywordSearchIndex":
+    def from_file(
+        cls, filename: str = "keyword_search_index.json"
+    ) -> "KeywordSearchIndex":
         """Load the search index from a JSON file"""
         empty_index: Dict[str, Dict[str, Set[str]]] = defaultdict(
             lambda: defaultdict(set)
@@ -228,3 +234,19 @@ if __name__ == "__main__":
     # Display search results
     print(f"Query: {query!r}")
     index.display_search_results(search_results)
+
+    # Read project data to create an index
+    import pandas as pd
+
+    df = pd.read_csv(__data_dir__ / "trimmed_project_data.csv")
+    index = KeywordSearchIndex()
+    df.apply(
+        lambda row: index.add_core_document(
+            project_name=row["Project Description"],
+            activity_desc=row["Activity Description"],
+            content=row["Comment"],
+        ),
+        axis=1,
+    )
+    index.remove_frequent_keywords_from_index(threshold=3)
+    index.save("keyword_search_index.json")
