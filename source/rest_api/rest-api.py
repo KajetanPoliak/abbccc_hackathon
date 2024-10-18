@@ -45,7 +45,7 @@ def search() -> str:
     project_description = request.args.get("project_description", "").lower()
     project_definition = request.args.get("project_definition", "").lower()
     activity_description = request.args.get("activity_description", "").lower()
-    user_id = request.args.get("user_id", "").lower()
+    subject = request.args.get("subject", "").lower()
 
     response: SearchResults = SearchResults()
 
@@ -68,7 +68,7 @@ def search() -> str:
             not in project.project.activity_description.lower()
         ):
             continue
-        if user_id and user_id not in project.name.lower():
+        if subject and subject not in project.subject.lower():
             continue
 
         response.Add(project)
