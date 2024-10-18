@@ -7,7 +7,7 @@ from result import ProjectDefinition, ProjectResult, SearchResults
 
 app = Flask(__name__)
 
-with open("./data/data_results.json", encoding="utf-8") as f:
+with open("./data/enriched_data.json", encoding="utf-8") as f:
     data = json.load(f)
 
 results = SearchResults()
@@ -20,7 +20,7 @@ for event in data:
             ProjectResult(
                 project=ProjectDefinition(
                     project_description=event["project_description"],
-                    project_definition="yy",  # event["project_definition"]
+                    project_definition=event["project_definition"],
                     activity_description=event["project_activity"],
                     confidence=0.99,
                 ),
