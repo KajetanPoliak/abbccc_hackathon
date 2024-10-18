@@ -134,9 +134,7 @@ class KeywordSearchIndex:
     def process_query_document(self, title: str, body: str) -> Set[str]:
         """Process a query document and extract its keywords from the title
         and body"""
-        query_keywords = self._extract_keywords(
-            title + " " + body, use_ml=False
-        )
+        query_keywords = self._extract_keywords(title + " " + body, use_ml=True)
         return query_keywords
 
     def search(
@@ -158,7 +156,7 @@ class KeywordSearchIndex:
             )
             # Filter our all matches with low confidence
             project_match = project_match.loc[
-                project_match["match_confidence"] >= 0.95, :
+                project_match["match_confidence"] >= 0.8, :
             ]
             if not project_match.empty:
                 project_match = project_match.sort_values(

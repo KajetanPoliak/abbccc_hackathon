@@ -1,5 +1,6 @@
 [
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4YQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00807E80A0AF06F633BA3F4DA0100000000000000001000000028A41E75BAECCD4B9CAFF425D13F5215",
         "subject": "P2X ABB Optimax viikkopalaveri",
@@ -14,10 +15,11 @@
         "project_description": "P2X Solutions project - Optimax support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.5776327848434448,
-        "pred_confidence_score": 0.5776327848434448
+        "pred_confidence_score_context": 0.5484618544578552,
+        "pred_confidence_score": 0.5484618544578552
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4YAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00807E8091A1D805DAB0E5AD801000000000000000010000000E105E85E23CE434D8E637839D4A86E89",
         "subject": "Optimization Projects: Sprint Review",
@@ -29,13 +31,14 @@
         "instances": [
             "2024-09-26"
         ],
-        "project_description": "Energy Efficiency module GTB EMS Optimax",
+        "project_description": "P2X Solutions project - Optimax support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.5600749254226685,
-        "pred_confidence_score": 0.5600749254226685
+        "pred_confidence_score_context": 0.5391963720321655,
+        "pred_confidence_score": 0.5391963720321655
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4XwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000005007E87EEC04DB01000000000000000010000000A034E3A0A4E89448B892D71038DA1AD7",
         "subject": "Save the date: Christmas Party",
@@ -47,13 +50,14 @@
         "instances": [
             "2024-12-20"
         ],
-        "project_description": "Gasum Loiste",
-        "project_activity": "Meeting",
+        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
+        "project_activity": "Optimax - demo",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.23677614331245422,
-        "pred_confidence_score": 0.23677614331245422
+        "pred_confidence_score_context": 0.31047508120536804,
+        "pred_confidence_score": 0.31047508120536804
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4XgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000042CB67792113DB01000000000000000010000000A9293CC8FFD6984A8F3EEE70023FD044",
         "subject": "Global employee townhall with Morten Wierod ",
@@ -65,13 +69,14 @@
         "instances": [
             "2024-10-30"
         ],
-        "project_description": "Gasum Loiste",
-        "project_activity": "Engineering",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.42574968934059143,
-        "pred_confidence_score": 0.42574968934059143
+        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
+        "project_activity": "Optimax - demo",
+        "pred_confidence_score_keyword": 0.0152,
+        "pred_confidence_score_context": 0.5597430467605591,
+        "pred_confidence_score": 0.5749430656433105
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4XQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000D05749444C21DB01000000000000000010000000A2145E5B55B2AA4FB980A0313CAE8984",
         "subject": "Optimax Del Din Status",
@@ -83,13 +88,14 @@
         "instances": [
             "2024-10-29"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Int. Communication",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.5025798678398132,
-        "pred_confidence_score": 0.5025798678398132
+        "project_description": "Energy Efficiency module GTB EMS Optimax",
+        "project_activity": "Engineering",
+        "pred_confidence_score_keyword": 0.855,
+        "pred_confidence_score_context": 0.46031826734542847,
+        "pred_confidence_score": 1.3153183460235596
     },
     {
+        "project_definition": "Project management",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4XAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000006259E881E61ADB010000000000000000100000000C36C94652C3704DB316E4BBECB8F8FF",
         "subject": "Improving Workshop Day 4 (Main Room)",
@@ -101,13 +107,14 @@
         "instances": [
             "2024-10-25"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Documentation",
+        "project_description": "Ene vision",
+        "project_activity": "Project meetings",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.40598708391189575,
-        "pred_confidence_score": 0.40598708391189575
+        "pred_confidence_score_context": 0.329704225063324,
+        "pred_confidence_score": 0.329704225063324
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4WwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000B0D9C450E49ADA010000000000000000100000007011E69F17CD6C459874E288D92FD2BB",
         "subject": "EUOPC Town Hall",
@@ -122,10 +129,11 @@
         "project_description": "Gasum Loiste",
         "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4772936701774597,
-        "pred_confidence_score": 0.4772936701774597
+        "pred_confidence_score_context": 0.5215141773223877,
+        "pred_confidence_score": 0.5215141773223877
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4WgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000008E9BE2E8551EDB010000000000000000100000009C8C440A6407004CB6463E1075491728",
         "subject": "Improving Workshop Day 3 (Main Room)",
@@ -137,13 +145,14 @@
         "instances": [
             "2024-10-24"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Int. Communication",
+        "project_description": "Ene vision",
+        "project_activity": "Simulation",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.3961501121520996,
-        "pred_confidence_score": 0.3961501121520996
+        "pred_confidence_score_context": 0.33624985814094543,
+        "pred_confidence_score": 0.33624985814094543
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4WQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000001B00B1AD5516DB01000000000000000010000000B0FF0A56B4D89441A420246B3FA38391",
         "subject": "Improving Workshop Day 3 (OPX-C)",
@@ -158,10 +167,11 @@
         "project_description": "P2X Solutions project - Optimax support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4935480058193207,
-        "pred_confidence_score": 0.4935480058193207
+        "pred_confidence_score_context": 0.3570854961872101,
+        "pred_confidence_score": 0.3570854961872101
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4WAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000065C6F715541EDB01000000000000000010000000F67E920FF79AEA4098379ED6E898B918",
         "subject": "Improving Workshop Day 2 (Main Room)",
@@ -173,13 +183,14 @@
         "instances": [
             "2024-10-23"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Int. Communication",
+        "project_description": "Gasum Loiste",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.39412468671798706,
-        "pred_confidence_score": 0.39412468671798706
+        "pred_confidence_score_context": 0.33651062846183777,
+        "pred_confidence_score": 0.33651062846183777
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4VwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000002D1371845616DB01000000000000000010000000ACF982BAC8A6004DA936E5A4A19375A9",
         "subject": "Improving Workshop Day 2 (OPX-C)",
@@ -194,10 +205,11 @@
         "project_description": "P2X Solutions project - Optimax support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4986335337162018,
-        "pred_confidence_score": 0.4986335337162018
+        "pred_confidence_score_context": 0.3537804186344147,
+        "pred_confidence_score": 0.3537804186344147
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4VgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000E1979AF35716DB0100000000000000001000000057C1350B2E1F9248A6D93AB902237927",
         "subject": "Improving Workshop Day 1 (OPX-C)",
@@ -212,10 +224,11 @@
         "project_description": "P2X Solutions project - Optimax support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4850674569606781,
-        "pred_confidence_score": 0.4850674569606781
+        "pred_confidence_score_context": 0.3483230769634247,
+        "pred_confidence_score": 0.3483230769634247
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4VQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000E725FC620B1FDB01000000000000000010000000EB505A00DFDDEB4FAD881408C5A6B808",
         "subject": "Improving Workshop Day 1 (Main Room)",
@@ -227,13 +240,14 @@
         "instances": [
             "2024-10-22"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Int. Communication",
+        "project_description": "Senatobia Extension OPTIMAX",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.42128995060920715,
-        "pred_confidence_score": 0.42128995060920715
+        "pred_confidence_score_context": 0.3358558714389801,
+        "pred_confidence_score": 0.3358558714389801
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4VAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000F0215F42051FDB010000000000000000100000000412133AFCFD20489708676B24740FD9",
         "subject": "Relax on 3rd floor unavailable due to ABB CCC Hackathon",
@@ -245,13 +259,14 @@
         "instances": [
             "2024-10-18"
         ],
-        "project_description": "Senatobia Extension OPTIMAX",
-        "project_activity": "Engineering",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.3190067410469055,
-        "pred_confidence_score": 0.3190067410469055
+        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
+        "project_activity": "Optimax - demo",
+        "pred_confidence_score_keyword": 0.0152,
+        "pred_confidence_score_context": 0.24947604537010193,
+        "pred_confidence_score": 0.264676034450531
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4UwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000000734796C9220DB0100000000000000001000000019792F32CAAED54092E7701529EA3381",
         "subject": "Travel Germany preparation",
@@ -263,13 +278,14 @@
         "instances": [
             "2024-10-17"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Documentation",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.380342960357666,
-        "pred_confidence_score": 0.380342960357666
+        "project_description": "Senatobia Extension OPTIMAX",
+        "project_activity": "Engineering",
+        "pred_confidence_score_keyword": 0.0238,
+        "pred_confidence_score_context": 0.282481849193573,
+        "pred_confidence_score": 0.3062818646430969
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4UgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000937E047C9220DB010000000000000000100000002E39A0449D9D614495F84B55EF33E2B6",
         "subject": "Hynamics VM",
@@ -281,13 +297,14 @@
         "instances": [
             "2024-10-17"
         ],
-        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
-        "project_activity": "Optimax - demo",
+        "project_description": "Finland Optimax Support 2024",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.39868342876434326,
-        "pred_confidence_score": 0.39868342876434326
+        "pred_confidence_score_context": 0.40091484785079956,
+        "pred_confidence_score": 0.40091484785079956
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4UQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000020D8369C6420DB0100000000000000001000000067419046C451BC4194B3554BA4CAAA03",
         "subject": "Mannheim tripity trip",
@@ -299,13 +316,14 @@
         "instances": [
             "2024-10-17"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Documentation",
+        "project_description": "Denmark Optimax Support",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.34061697125434875,
-        "pred_confidence_score": 0.34061697125434875
+        "pred_confidence_score_context": 0.20981471240520477,
+        "pred_confidence_score": 0.20981471240520477
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4UAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000007E6195829220DB010000000000000000100000009B43E8E6507AE34392175799B519F37F",
         "subject": "VHD file creation",
@@ -320,10 +338,11 @@
         "project_description": "P2X Solutions project - Optimax support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.5857828259468079,
-        "pred_confidence_score": 0.5857828259468079
+        "pred_confidence_score_context": 0.4281665086746216,
+        "pred_confidence_score": 0.4281665086746216
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4TwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000106C8076DC14DB01000000000000000010000000CA731FE1460A6E44A56266BE95E2BFF1",
         "subject": "C14332 Rennes: update on the project",
@@ -335,13 +354,14 @@
         "instances": [
             "2024-10-15"
         ],
-        "project_description": "Ene vision",
-        "project_activity": "Project meetings",
+        "project_description": "Gasum Loiste",
+        "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.3967544138431549,
-        "pred_confidence_score": 0.3967544138431549
+        "pred_confidence_score_context": 0.41576382517814636,
+        "pred_confidence_score": 0.41576382517814636
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4TgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000009031F3F6581EDB010000000000000000100000003D0116FAA62EF043AD58B6A0048A0AEB",
         "subject": "Fix setroubleshootd using up CPU on old 6.4 version",
@@ -353,13 +373,14 @@
         "instances": [
             "2024-10-15"
         ],
-        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
-        "project_activity": "Optimax - demo",
+        "project_description": "Gasum Loiste",
+        "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.41021057963371277,
-        "pred_confidence_score": 0.41021057963371277
+        "pred_confidence_score_context": 0.401905357837677,
+        "pred_confidence_score": 0.401905357837677
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4TQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000BAD29B560B1EDB0100000000000000001000000098510FB3A53EF94BB01C1073206B97AA",
         "subject": "Veolia",
@@ -371,13 +392,14 @@
         "instances": [
             "2024-10-14"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Documentation",
+        "project_description": "Gasum Loiste",
+        "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4314298927783966,
-        "pred_confidence_score": 0.4314298927783966
+        "pred_confidence_score_context": 0.31173157691955566,
+        "pred_confidence_score": 0.31173157691955566
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4TAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000050CEF4ABEE10DB0100000000000000001000000024CD91A85F436E4AADDA2F845263DA11",
         "subject": "Gasum FIABB-OPC follow-up",
@@ -396,10 +418,11 @@
         "project_description": "Gasum Loiste",
         "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.027,
-        "pred_confidence_score_context": 0.5397342443466187,
-        "pred_confidence_score": 0.566734254360199
+        "pred_confidence_score_context": 0.4517587423324585,
+        "pred_confidence_score": 0.4787587523460388
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4SwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000001FADCD40DF1ADB010000000000000000100000009D6A8D726E2EAD4E8BCC9957B9AA054B",
         "subject": "Container internal communication",
@@ -411,13 +434,14 @@
         "instances": [
             "2024-10-10"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Int. Communication",
+        "project_description": "Shell ETCA EMS Optimax",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4069758355617523,
-        "pred_confidence_score": 0.4069758355617523
+        "pred_confidence_score_context": 0.3211221694946289,
+        "pred_confidence_score": 0.3211221694946289
     },
     {
+        "project_definition": "Project management",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4SgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000D0E181AC5F1ADB01000000000000000010000000B60DF093DAD27341AEB31D6101C3FD3F",
         "subject": "Transfer Entra ID from OPTIMAX to AssetInsight group",
@@ -432,10 +456,11 @@
         "project_description": "Ene vision",
         "project_activity": "Project meetings",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4920475482940674,
-        "pred_confidence_score": 0.4920475482940674
+        "pred_confidence_score_context": 0.4775945544242859,
+        "pred_confidence_score": 0.4775945544242859
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4SQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000C6CC9A624A19DB010000000000000000100000002A987E4AF914CB45A3D0529CA7F2B486",
         "subject": "Veolia [internal engineer sync]",
@@ -458,13 +483,14 @@
             "2024-12-19",
             "2024-12-26"
         ],
-        "project_description": "Shell ETCA EMS Optimax",
-        "project_activity": "Engineering",
+        "project_description": "Gasum Loiste",
+        "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.37058311700820923,
-        "pred_confidence_score": 0.37058311700820923
+        "pred_confidence_score_context": 0.36651331186294556,
+        "pred_confidence_score": 0.36651331186294556
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4SAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000548D0ADB1D13DB01000000000000000010000000C3E12311AF5E3049BE1FB4F00D270B68",
         "subject": "C14332 Rennes BMS - Veolia internal task discussion",
@@ -476,13 +502,14 @@
         "instances": [
             "2024-10-04"
         ],
-        "project_description": "Energy Efficiency module GTB EMS Optimax",
-        "project_activity": "Engineering",
+        "project_description": "Gasum Loiste",
+        "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4367581009864807,
-        "pred_confidence_score": 0.4367581009864807
+        "pred_confidence_score_context": 0.4448399245738983,
+        "pred_confidence_score": 0.4448399245738983
     },
     {
+        "project_definition": "Project management",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4RwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000004B29715DFA12DB01000000000000000010000000F49075E519FA3A4FB13B81DFB494E54C",
         "subject": "Milica ocno",
@@ -495,12 +522,13 @@
             "2024-10-02"
         ],
         "project_description": "Ene vision",
-        "project_activity": "Documentation (FDS)",
+        "project_activity": "Project meetings",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.43438899517059326,
-        "pred_confidence_score": 0.43438899517059326
+        "pred_confidence_score_context": 0.2546245753765106,
+        "pred_confidence_score": 0.2546245753765106
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4RgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000500EC30A4813DB0100000000000000001000000029F58CE7EE883740B04D47E34939BDD7",
         "subject": "EUOPC Visit  - Dinner",
@@ -512,13 +540,14 @@
         "instances": [
             "2024-10-01"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Int. Communication",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.3250156044960022,
-        "pred_confidence_score": 0.3250156044960022
+        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
+        "project_activity": "Optimax - demo",
+        "pred_confidence_score_keyword": 0.0152,
+        "pred_confidence_score_context": 0.18703854084014893,
+        "pred_confidence_score": 0.2022385448217392
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4RQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000094E600B7FA12DB01000000000000000010000000909D188841C7C446965713D08A7C3229",
         "subject": "Camp del Din - dokumentacija",
@@ -533,10 +562,11 @@
         "project_description": "Camp del Din",
         "project_activity": "Documentation",
         "pred_confidence_score_keyword": 0.2727,
-        "pred_confidence_score_context": 0.8184144496917725,
-        "pred_confidence_score": 1.0911145210266113
+        "pred_confidence_score_context": 0.2506890296936035,
+        "pred_confidence_score": 0.5233890414237976
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4RAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000C0FAE799B805DB01000000000000000010000000C44055461E4DC744AEFA297D8EC7D3AB",
         "subject": "Do not forget: Timesheet will be locked today at 12:00",
@@ -548,13 +578,14 @@
         "instances": [
             "2024-09-30"
         ],
-        "project_description": "Shell ETCA EMS Optimax",
+        "project_description": "Senatobia Extension OPTIMAX",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4133487641811371,
-        "pred_confidence_score": 0.4133487641811371
+        "pred_confidence_score_context": 0.4677733778953552,
+        "pred_confidence_score": 0.4677733778953552
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4QwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000D0DCA5C4560FDB010000000000000000100000003DE060210301CE44868949C9EA91A276",
         "subject": "C14332 RENNES METROPOLE BMS: kick-off",
@@ -569,10 +600,11 @@
         "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
         "project_activity": "Optimax - demo",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.43758755922317505,
-        "pred_confidence_score": 0.43758755922317505
+        "pred_confidence_score_context": 0.5380577445030212,
+        "pred_confidence_score": 0.5380577445030212
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4QgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000E0B928FF240FDB01000000000000000010000000E6AD8BD0FEC986448151A0D4E0D6B542",
         "subject": "Optimax Del Din Alignment",
@@ -595,13 +627,14 @@
             "2024-12-06",
             "2024-12-13"
         ],
-        "project_description": "Ene vision",
-        "project_activity": "Optimax Engineering",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.5107423663139343,
-        "pred_confidence_score": 0.5107423663139343
+        "project_description": "Energy Efficiency module GTB EMS Optimax",
+        "project_activity": "Engineering",
+        "pred_confidence_score_keyword": 0.855,
+        "pred_confidence_score_context": 0.44041770696640015,
+        "pred_confidence_score": 1.2954177856445312
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4QQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000D0ABADE1DEE8DA0100000000000000001000000081DFF5374132B04AB02CAD4768C93190",
         "subject": "U-133 Senatobia OPTIMAX Extension Progress Meetings",
@@ -622,10 +655,11 @@
         "project_description": "Senatobia Extension OPTIMAX",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.6799023151397705,
-        "pred_confidence_score": 0.6799023151397705
+        "pred_confidence_score_context": 0.6967856287956238,
+        "pred_confidence_score": 0.6967856287956238
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4QAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000E737774F1410DB010000000000000000100000004A6A0095E195004A848FE43799207242",
         "subject": "Senatobia Modbus",
@@ -640,10 +674,11 @@
         "project_description": "Senatobia Extension OPTIMAX",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0238,
-        "pred_confidence_score_context": 0.5592289566993713,
-        "pred_confidence_score": 0.5830289721488953
+        "pred_confidence_score_context": 0.6785444021224976,
+        "pred_confidence_score": 0.7023444175720215
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4PwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000060D92E99B705DB01000000000000000010000000EF95F28C1E816345AF9490563F48B2E6",
         "subject": "Do not forget: Absence App will be locked today at 23:59",
@@ -655,13 +690,14 @@
         "instances": [
             "2024-09-26"
         ],
-        "project_description": "Shell ETCA EMS Optimax",
+        "project_description": "Senatobia Extension OPTIMAX",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.382601261138916,
-        "pred_confidence_score": 0.382601261138916
+        "pred_confidence_score_context": 0.45516887307167053,
+        "pred_confidence_score": 0.45516887307167053
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4PgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000B0BD0EDEEF0FDB010000000000000000100000009213F0C3F54245469D7A9EC477F8CDB2",
         "subject": "Norfors Optimax - Create new users",
@@ -676,10 +712,11 @@
         "project_description": "Denmark Optimax Support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0385,
-        "pred_confidence_score_context": 0.6388601064682007,
-        "pred_confidence_score": 0.6773601174354553
+        "pred_confidence_score_context": 0.618080735206604,
+        "pred_confidence_score": 0.6565807461738586
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4PQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000001028A7D8F10FDB0100000000000000001000000069CBD7F8A469E445891E732162C55F19",
         "subject": "Gasum OSS",
@@ -694,10 +731,11 @@
         "project_description": "Gasum Loiste",
         "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0541,
-        "pred_confidence_score_context": 0.5178865194320679,
-        "pred_confidence_score": 0.5719864964485168
+        "pred_confidence_score_context": 0.575897216796875,
+        "pred_confidence_score": 0.629997193813324
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4PAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000E0282835B705DB010000000000000000100000008C828C99854AF54BBCDD58294D65C801",
         "subject": "Do not forget: Accruals Pre-filled to be filled today till 9:59 AM",
@@ -709,13 +747,14 @@
         "instances": [
             "2024-09-25"
         ],
-        "project_description": "Shell ETCA EMS Optimax",
+        "project_description": "Senatobia Extension OPTIMAX",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.3725127875804901,
-        "pred_confidence_score": 0.3725127875804901
+        "pred_confidence_score_context": 0.4391935467720032,
+        "pred_confidence_score": 0.4391935467720032
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4OwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000072C4C34F720EDB010000000000000000100000002A5F109C688E354DA367D5A24A61E195",
         "subject": "IT problem",
@@ -730,10 +769,11 @@
         "project_description": "Ene vision",
         "project_activity": "Simulation",
         "pred_confidence_score_keyword": 0.1111,
-        "pred_confidence_score_context": 0.24288448691368103,
-        "pred_confidence_score": 0.3539844751358032
+        "pred_confidence_score_context": 0.44283443689346313,
+        "pred_confidence_score": 0.5539344549179077
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4OgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000085C9045A720EDB010000000000000000100000005C8734DFD4B9284EBB0CA2CE937CF406",
         "subject": "Norfors",
@@ -748,10 +788,11 @@
         "project_description": "Denmark Optimax Support",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.3774569630622864,
-        "pred_confidence_score": 0.3774569630622864
+        "pred_confidence_score_context": 0.2770909070968628,
+        "pred_confidence_score": 0.2770909070968628
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4OQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000090FBFA97DFE8DA010000000000000000100000004777A37857F9F9438F869B4AE5A4A41F",
         "subject": "U-133 Senatobia Optimax Extension - Weekly Meeting",
@@ -779,10 +820,11 @@
         "project_description": "Senatobia Extension OPTIMAX",
         "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.6197384595870972,
-        "pred_confidence_score": 0.6197384595870972
+        "pred_confidence_score_context": 0.5844961404800415,
+        "pred_confidence_score": 0.5844961404800415
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4OAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000062B92C3EA9EFDA01000000000000000010000000A57C3FA151ECCB489ECA0DBB8C47E596",
         "subject": "Optimax production planning follow-up",
@@ -795,13 +837,14 @@
             "2024-09-23",
             "2024-09-30"
         ],
-        "project_description": "Optimax - ECOPETROL REFICAR Refinery Colombia",
-        "project_activity": "Testing & Handover",
+        "project_description": "Shell ETCA EMS Optimax",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.6054428815841675,
-        "pred_confidence_score": 0.6054428815841675
+        "pred_confidence_score_context": 0.6717809438705444,
+        "pred_confidence_score": 0.6717809438705444
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4NwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000003008C94C066BDA01000000000000000010000000676CC8046E6B984E9787285EAE1EA3D8",
         "subject": "OPTIMAX Deployment and Platform",
@@ -826,12 +869,13 @@
             "2024-12-16"
         ],
         "project_description": "Shell ETCA EMS Optimax",
-        "project_activity": "Installation",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.5653802156448364,
-        "pred_confidence_score": 0.5653802156448364
+        "pred_confidence_score_context": 0.5946193933486938,
+        "pred_confidence_score": 0.5946193933486938
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4NgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000000B38FD24920CDA01000000000000000010000000C2F8A3E7DDC2C249B36DBD34543C20AB",
         "subject": "Stand Up Optimax meeting ",
@@ -872,13 +916,14 @@
             "2025-04-07",
             "2025-04-14"
         ],
-        "project_description": "Senatobia Extension OPTIMAX",
+        "project_description": "Energy Efficiency module GTB EMS Optimax",
         "project_activity": "Engineering",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.4201410412788391,
-        "pred_confidence_score": 0.4201410412788391
+        "pred_confidence_score_keyword": 0.855,
+        "pred_confidence_score_context": 0.39653024077415466,
+        "pred_confidence_score": 1.2515302896499634
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4NQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000000B353CDDFB5DA01000000000000000010000000A261174CCF2144499079A340BA5127E7",
         "subject": "Gasum x ABB",
@@ -906,10 +951,11 @@
         "project_description": "Gasum Loiste",
         "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.47791290283203125,
-        "pred_confidence_score": 0.47791290283203125
+        "pred_confidence_score_context": 0.41553646326065063,
+        "pred_confidence_score": 0.41553646326065063
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4NAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000001092F6539D53DA01000000000000000010000000074ACB5C362A0C478FDB8E86FBB74C51",
         "subject": "Digital Training sessions",
@@ -951,13 +997,14 @@
             "2025-04-10",
             "2025-04-17"
         ],
-        "project_description": "Gasum Loiste",
-        "project_activity": "Engineering",
+        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
+        "project_activity": "Optimax - demo",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.42168867588043213,
-        "pred_confidence_score": 0.42168867588043213
+        "pred_confidence_score_context": 0.5261345505714417,
+        "pred_confidence_score": 0.5261345505714417
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4MwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E0080000000050B1B9A12754DA01000000000000000010000000BF489D7BD2AF024EA11ACF26FFD8973C",
         "subject": "Customer Satisfaction 2024",
@@ -981,13 +1028,14 @@
             "2024-12-05",
             "2024-12-12"
         ],
-        "project_description": "Ene vision",
-        "project_activity": "Project meetings",
-        "pred_confidence_score_keyword": 0.125,
-        "pred_confidence_score_context": 0.3663647174835205,
-        "pred_confidence_score": 0.4913647174835205
+        "project_description": "Gasum Loiste",
+        "project_activity": "Meeting",
+        "pred_confidence_score_keyword": 0.027,
+        "pred_confidence_score_context": 0.5662152767181396,
+        "pred_confidence_score": 0.59321528673172
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4MgAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E008000000001A3163FCCD09DB0100000000000000001000000036836FD86E97CC4786F491B08E9689C3",
         "subject": "OPX debug user sort filter",
@@ -999,13 +1047,14 @@
         "instances": [
             "2024-09-18"
         ],
-        "project_description": "OPTIMAX APPS&MODELS CZ 2024 WP-12081.04",
-        "project_activity": "Optimax - demo",
+        "project_description": "Shell ETCA EMS Optimax",
+        "project_activity": "Engineering",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.40055710077285767,
-        "pred_confidence_score": 0.40055710077285767
+        "pred_confidence_score_context": 0.2924933433532715,
+        "pred_confidence_score": 0.2924933433532715
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4MQAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000407E8643C705DB01000000000000000010000000419CCCE973AA1549855E0FF745A8ED83",
         "subject": "PAEN Town hall in EUOPC",
@@ -1017,13 +1066,14 @@
         "instances": [
             "2024-09-18"
         ],
-        "project_description": "Camp del Din",
-        "project_activity": "Int. Communication",
+        "project_description": "Gasum Loiste",
+        "project_activity": "Meeting",
         "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.3911462426185608,
-        "pred_confidence_score": 0.3911462426185608
+        "pred_confidence_score_context": 0.46344947814941406,
+        "pred_confidence_score": 0.46344947814941406
     },
     {
+        "project_definition": "Project management",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4MAAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000C02DB36E48FDDA010000000000000000100000006B292B7622D2C9488DD4210896FF900B",
         "subject": "P2X internal project meeting",
@@ -1045,13 +1095,14 @@
             "2024-11-20",
             "2024-11-27"
         ],
-        "project_description": "P2X Solutions project - Optimax support",
-        "project_activity": "Engineering",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.6069441437721252,
-        "pred_confidence_score": 0.6069441437721252
+        "project_description": "Ene vision",
+        "project_activity": "Project meetings",
+        "pred_confidence_score_keyword": 0.125,
+        "pred_confidence_score_context": 0.5369715094566345,
+        "pred_confidence_score": 0.6619715094566345
     },
     {
+        "project_definition": "Engineering",
         "id": "AQMkADAwATNiZmYAZS04OABhNy02NzUwLTAwAi0wMAoARgAAA1uks6-wvrBFhU-4BLk4-4kHAMJsZoWDLn1Ji2fvfiv8K7wAAAJ3dQAAAMJsZoWDLn1Ji2fvfiv8K7wAAAK4LwAAAA==",
         "ical_uid": "040000008200E00074C5B7101A82E00800000000203EBEC24248DA01000000000000000010000000882D996F890A7546AF4C6474F456A841",
         "subject": "Optimax Team Meeting",
@@ -1185,10 +1236,10 @@
             "2025-04-17",
             "2025-04-18"
         ],
-        "project_description": "Ene vision",
-        "project_activity": "Optimax Engineering",
-        "pred_confidence_score_keyword": 0.0,
-        "pred_confidence_score_context": 0.5183868408203125,
-        "pred_confidence_score": 0.5183868408203125
+        "project_description": "Energy Efficiency module GTB EMS Optimax",
+        "project_activity": "Engineering",
+        "pred_confidence_score_keyword": 0.855,
+        "pred_confidence_score_context": 0.594689667224884,
+        "pred_confidence_score": 1.4496896266937256
     }
 ]
