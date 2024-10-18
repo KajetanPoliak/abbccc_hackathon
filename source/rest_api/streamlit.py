@@ -10,14 +10,14 @@ def search_projects(
     project_description: str,
     project_definition: str,
     activity_description: str,
-    name: str,
+    subject: str,
 ) -> SearchResults:
     base_url = "http://localhost:5000"  # Assuming Flask runs on default port
     params = {
         "project_description": project_description,
         "project_definition": project_definition,
         "activity_description": activity_description,
-        "name": name,
+        "subject": subject,
     }
     response = requests.get(f"{base_url}/search", params=params)
     return SearchResults.deserialize(response.text)
@@ -77,7 +77,7 @@ st.title("Project Search")
 project_description = st.text_input("Project Description")
 project_definition = st.text_input("Project Definition")
 activity_description = st.text_input("Activity Description")
-name = st.text_input("Name")
+name = st.text_input("Subject")
 
 if st.button("Search"):
     results = search_projects(
@@ -110,6 +110,7 @@ if st.button("Search"):
                                     <p><strong>Datetime:</strong> {result.GetDatetime()}</p>
                                     <p><strong>User:</strong> {userIdToName(result.GetUserId())}</p>
                                     <p><strong>Subject:</strong> {result.GetSubject()}</p>
+                                    <p><strong>Body:</strong> {result.GetBody()}</p>
                                     <p><strong>Duration:</strong> {result.GetDuration()}</p>
                                 </div>
                                 """,

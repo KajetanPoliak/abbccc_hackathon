@@ -7,7 +7,7 @@ from result import ProjectDefinition, ProjectResult, SearchResults
 
 app = Flask(__name__)
 
-with open("./data/data_results.json", encoding="utf-8") as f:
+with open("./data/enriched_data.json", encoding="utf-8") as f:
     data = json.load(f)
 
 results = SearchResults()
@@ -20,7 +20,7 @@ for event in data:
             ProjectResult(
                 project=ProjectDefinition(
                     project_description=event["project_description"],
-                    project_definition="yy",  # event["project_definition"]
+                    project_definition=event["project_definition"],
                     activity_description=event["project_activity"],
                     confidence=0.99,
                 ),
@@ -35,6 +35,7 @@ for event in data:
                 user_id=event["id"],
                 duration=event["duration"],
                 subject=event["subject"],
+                body=event["body_preview_clean"],
             )
         )
 
@@ -44,7 +45,7 @@ def search() -> str:
     project_description = request.args.get("project_description", "").lower()
     project_definition = request.args.get("project_definition", "").lower()
     activity_description = request.args.get("activity_description", "").lower()
-    user_id = request.args.get("user_id", "").lower()
+    subject = request.args.get("subject", "").lower()
 
     response: SearchResults = SearchResults()
 
@@ -67,7 +68,7 @@ def search() -> str:
             not in project.project.activity_description.lower()
         ):
             continue
-        if user_id and user_id not in project.name.lower():
+        if subject and subject not in project.subject.lower():
             continue
 
         response.Add(project)

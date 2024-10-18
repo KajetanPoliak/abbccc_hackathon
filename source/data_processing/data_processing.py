@@ -84,7 +84,7 @@ class DataProcessor:
         df = pd.DataFrame(self.load_event_data())
         return df
 
-    def enrich_json(self) -> None:
+    def enrich_result(self, data: List[Dict[str, Any]]) -> Any:
         df = self.get_project_data()
         df.rename(
             columns={
@@ -104,13 +104,8 @@ class DataProcessor:
             columns=["project_description", "project_activity", "Comment"],
             inplace=True,
         )
-        print(df)
-        print(df.shape)
-        # read json results
-        with open(f"{self.data_dir}data_results.json") as f:
-            result_data = cast(List[Dict[str, Any]], json.load(f))
 
-        result_df = pd.DataFrame(result_data)
+        result_df = pd.DataFrame(data)
         result_df["merge_helper"] = (
             result_df["project_description"]
             + " / "
@@ -122,11 +117,8 @@ class DataProcessor:
         )
         enriched_data.drop(columns=["merge_helper"], inplace=True)
         enriched_json = enriched_data.to_dict(orient="records")
-        # Save json
-        with open(f"{self.data_dir}enriched_data.json", "w") as f:
-            json.dump(enriched_json, f, indent=4)
+        return enriched_json
 
 
 if __name__ == "__main__":
     dp = DataProcessor()
-    dp.enrich_json()
