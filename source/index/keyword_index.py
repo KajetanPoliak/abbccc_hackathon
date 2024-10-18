@@ -6,6 +6,9 @@ from typing import Any, Dict, Optional, Set
 
 import nltk
 import numpy as np
+import spacy
+from keybert import KeyBERT
+from spacy import Language
 
 from source.utils.logging import get_stream_logger
 from source.utils.string_matching import fuzzy_nn_match
@@ -18,6 +21,8 @@ assert __data_dir__.exists(), f"Data directory not found: {__data_dir__!r}"
 
 class KeywordSearchIndex:
     stopwords: Set[str] = set()
+    nlp: Optional[Language] = None
+    keybert: Optional[KeyBERT] = None
 
     def __init__(self) -> None:
         self.logger = get_stream_logger(self.__class__.__name__)
@@ -25,12 +30,16 @@ class KeywordSearchIndex:
         self.index: Dict[str, Dict[str, Set[str]]] = defaultdict(
             lambda: defaultdict(set)
         )
-        self.stopwords = self.get_stop_words()
 
     def __new__(cls, *args: Any, **kwargs: Any) -> "KeywordSearchIndex":
         # Set stopwords as a class attribute
         if not cls.stopwords:
             cls.stopwords = cls.get_stop_words()
+        if not cls.nlp:
+            cls.nlp = spacy.load("xx_ent_wiki_sm")
+        if not cls.keybert:
+            cls.keybert = KeyBERT(model=None)
+
         return super().__new__(cls)
 
     @classmethod
@@ -43,18 +52,43 @@ class KeywordSearchIndex:
         return set(
             nltk.corpus.stopwords.words("english")
             + nltk.corpus.stopwords.words("german")
+            + nltk.corpus.stopwords.words("finnish")
         )
 
     @classmethod
-    def _extract_keywords(cls, text: str) -> Set[str]:
+    def _extract_keywords(cls, text: str, use_ml: bool = True) -> Set[str]:
         # Simple keyword extraction by splitting on non-alphabetic characters
         # and removing stopwords
-        words = re.findall(r"\b\w+\b", text.lower())
-        keywords = [
-            word
-            for word in words
-            if word not in cls.stopwords and len(word) >= 2
-        ]
+        if not use_ml:
+            words = re.findall(r"\b\w+\b", text.lower())
+            keywords = [
+                word
+                for word in words
+                if word not in cls.stopwords and len(word) >= 2
+            ]
+        else:
+            # Use spaCy for named entity recognition
+            assert cls.nlp, "SpaCy NLP model not loaded"
+            doc = cls.nlp(text)
+            keywords = [ent.text.lower() for ent in doc.ents]
+            # Use KeyBERT for keyword extraction
+            assert cls.keybert, "KeyBERT model not loaded"
+            keywords += [
+                item[0].lower()
+                for item in cls.keybert.extract_keywords(
+                    text,
+                    keyphrase_ngram_range=(1, 3),
+                    stop_words=list(cls.stopwords),
+                    use_mmr=True,
+                    diversity=0.7,
+                )
+            ]
+            # Remove stopwords and short words
+            keywords = [
+                keyword
+                for keyword in keywords
+                if keyword not in cls.stopwords and len(keyword) >= 2
+            ]
         return set(keywords)
 
     def add_core_document(
@@ -158,7 +192,7 @@ class KeywordSearchIndex:
         # Convert the defaultdict to a regular dictionary before serializing
         index_serializable = {
             project: {
-                activity: list(keywords)
+                activity: sorted(keywords)
                 for activity, keywords in activities.items()
             }
             for project, activities in self.index.items()
@@ -248,5 +282,5 @@ if __name__ == "__main__":
         ),
         axis=1,
     )
-    index.remove_frequent_keywords_from_index(threshold=3)
+    index.remove_frequent_keywords_from_index(threshold=2)
     index.save("keyword_search_index.json")

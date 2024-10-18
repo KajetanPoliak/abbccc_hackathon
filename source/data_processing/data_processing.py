@@ -70,7 +70,10 @@ class DataProcessor:
         return df_proj_trimmed
 
     def get_email_data(self) -> List[str]:
-        return ["This is subject", "This is body"]
+        return [
+            "Gasum FIABB-OPC follow-up",
+            "2.10.2024 update: day changed from Tuesday to Friday to better match with the sprints. Hi, Follow-up meeting related to Gasum OSS project. BR, André",
+        ]
 
 
 if __name__ == "__main__":
