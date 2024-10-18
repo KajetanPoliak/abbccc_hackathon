@@ -23,7 +23,7 @@ class DataProcessor:
         self.title_cols = ["Project Description", "Activity Description"]
         self.used_cols = self.body_cols + self.title_cols
 
-        self.event_used_cols = ["id", "subject", "body_clean"]
+        self.event_used_cols = ["ical_uid", "subject", "body_clean"]
 
     def read_data(self, file_name: str) -> pd.DataFrame:
         return pd.read_csv(self.data_dir + file_name, sep=";")
@@ -84,7 +84,7 @@ class DataProcessor:
         df = self.load_event_data()
         df_restricted = df[self.event_used_cols]
         data_list = df_restricted.values.tolist()
-        return data_list[0:2]
+        return data_list
 
 
 if __name__ == "__main__":
