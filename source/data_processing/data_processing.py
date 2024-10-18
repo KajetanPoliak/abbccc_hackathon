@@ -1,4 +1,5 @@
-from typing import List
+import json
+from typing import Any, List
 
 import pandas as pd
 
@@ -8,6 +9,7 @@ class DataProcessor:
     def __init__(self) -> None:
         self.data_dir = "data/"
         self.project_data_fn = "project_data.csv"
+        self.event_data_fn = "data_cleaned.json"
         self.date_cn = "Date"
         self.target_person = "Aleksandar CEBZAN - 9D10341573"
 
@@ -20,6 +22,8 @@ class DataProcessor:
         ]
         self.title_cols = ["Project Description", "Activity Description"]
         self.used_cols = self.body_cols + self.title_cols
+
+        self.event_used_cols = ["id", "subject", "body_clean"]
 
     def read_data(self, file_name: str) -> pd.DataFrame:
         return pd.read_csv(self.data_dir + file_name, sep=";")
@@ -69,20 +73,20 @@ class DataProcessor:
         # title_body_df = self.build_structure(df_proj_trimmed)
         return df_proj_trimmed
 
-    def get_email_data(self) -> List[str]:
-        return [
-            "Gasum FIABB-OPC follow-up",
-            "2.10.2024 update: day changed from Tuesday to Friday to better match with the sprints. Hi, Follow-up meeting related to Gasum OSS project. BR, André",
-        ]
+    def load_event_data(self) -> pd.DataFrame:
+        # load from json to df
+        with open(f"{self.data_dir}{self.event_data_fn}") as f:
+            data = json.load(f)
+        df = pd.DataFrame(data)
+        return df
+
+    def get_email_data(self) -> Any:
+        df = self.load_event_data()
+        df_restricted = df[self.event_used_cols]
+        data_list = df_restricted.values.tolist()
+        return data_list
 
 
 if __name__ == "__main__":
     dp = DataProcessor()
-    df = dp.read_data("project_data.csv")
-    df_processed = dp.process_project_data(df)
-    print(df_processed.shape)
-
-    df_trimmed = dp.trim_project_data(df_processed)
-    print(df_trimmed.shape)
-    print(df_trimmed.head())
-    df_trimmed.to_csv("data/trimmed_project_data.csv", index=False)
+    data = dp.get_email_data()
