@@ -15,7 +15,7 @@ def get_tokenizer_and_model(
     # Load model from HuggingFace Hub
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModel.from_pretrained(model_name)
-    model = model.to("mps")
+    model = model.to(device)
     return tokenizer, model
 
 
