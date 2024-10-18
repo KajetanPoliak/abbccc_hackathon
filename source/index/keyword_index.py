@@ -83,7 +83,7 @@ class KeywordSearchIndex:
                     keyphrase_ngram_range=(1, 3),
                     stop_words=list(cls.stopwords),
                     use_mmr=True,
-                    diversity=0.7,
+                    diversity=0.9,
                 )
             ]
             # Remove stopwords and short words
@@ -134,7 +134,9 @@ class KeywordSearchIndex:
     def process_query_document(self, title: str, body: str) -> Set[str]:
         """Process a query document and extract its keywords from the title
         and body"""
-        query_keywords = self._extract_keywords(title + " " + body)
+        query_keywords = self._extract_keywords(
+            title + " " + body, use_ml=False
+        )
         return query_keywords
 
     def search(
