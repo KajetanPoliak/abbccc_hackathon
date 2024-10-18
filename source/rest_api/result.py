@@ -10,19 +10,19 @@ class ProjectDefinition:
         project_description: str,
         project_definition: str,
         activity_description: str,
-        confidence: float
+        confidence: float,
     ) -> None:
         self.project_description = project_definition
         self.project_definition = project_description
         self.activity_description = activity_description
         self.confidence = confidence
 
-    def to_dict(self) -> Dict[str, str]:
+    def to_dict(self) -> Dict[str, Any]:
         return {
             "project_description": self.project_description,
             "project_definition": self.project_definition,
             "activity_description": self.activity_description,
-            "confidence": self.confidence
+            "confidence": self.confidence,
         }
 
     def GetProjectDescription(self) -> str:
@@ -34,13 +34,16 @@ class ProjectDefinition:
     def GetActivityDescription(self) -> str:
         return self.activity_description
 
+    def GetConfidence(self) -> float:
+        return self.confidence
+
     @classmethod
-    def from_dict(cls, data: Dict[str, str]) -> "ProjectDefinition":
+    def from_dict(cls, data: Dict[str, Any]) -> "ProjectDefinition":
         return cls(
             project_description=data.get("project_description", ""),
             project_definition=data.get("project_definition", ""),
             activity_description=data.get("activity_description", ""),
-            confidence = data.get("confidence", -1)
+            confidence=data.get("confidence", -1),
         )
 
 
@@ -60,7 +63,7 @@ class ProjectResult:
     def to_dict(self) -> Dict[str, Any]:
         return {
             "project": self.project.to_dict(),
-            "datetime_start": self.datetime.isoformat(),
+            "datetime_start": self.datetime_start.isoformat(),
             "name": self.user_id,
             "duration": self.duration,
         }
