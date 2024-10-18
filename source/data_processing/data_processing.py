@@ -1,3 +1,5 @@
+from typing import List
+
 import pandas as pd
 
 
@@ -67,8 +69,8 @@ class DataProcessor:
         # title_body_df = self.build_structure(df_proj_trimmed)
         return df_proj_trimmed
 
-    # def get_email_data(self):
-    #     return [{}]
+    def get_email_data(self) -> List[str]:
+        return ["This is subject", "This is body"]
 
 
 if __name__ == "__main__":

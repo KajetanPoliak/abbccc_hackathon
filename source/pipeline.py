@@ -9,12 +9,10 @@ class Pipeline:
         self.index = FaissIndex(dim=768)
 
     def run(self) -> None:
-        title_body_df = self.dp.get_project_data()
-        # title_body_list = title_body_df.values.tolist()
-        # all_embeddings = []
-        # for record in title_body_list:
-        #     embeddings = apply_vectorization(record)
-        #     all_embeddings.append(embeddings)
+        keywords_df = self.dp.get_project_data()
+        title_body_list = self.dp.get_email_data()
+        embeddings = apply_vectorization(title_body_list=title_body_list)
+        print(embeddings)
 
 
 if __name__ == "__main__":
