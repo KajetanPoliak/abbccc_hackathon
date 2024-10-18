@@ -110,6 +110,7 @@ if st.button("Search"):
                                     <p><strong>Datetime:</strong> {result.GetDatetime()}</p>
                                     <p><strong>User:</strong> {userIdToName(result.GetUserId())}</p>
                                     <p><strong>Subject:</strong> {result.GetSubject()}</p>
+                                    <p><strong>Body:</strong> {result.GetBody()}</p>
                                     <p><strong>Duration:</strong> {result.GetDuration()}</p>
                                 </div>
                                 """,
