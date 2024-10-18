@@ -10,16 +10,19 @@ class ProjectDefinition:
         project_description: str,
         project_definition: str,
         activity_description: str,
+        confidence: float
     ) -> None:
         self.project_description = project_definition
         self.project_definition = project_description
         self.activity_description = activity_description
+        self.confidence = confidence
 
     def to_dict(self) -> Dict[str, str]:
         return {
             "project_description": self.project_description,
             "project_definition": self.project_definition,
             "activity_description": self.activity_description,
+            "confidence": self.confidence
         }
 
     def GetProjectDescription(self) -> str:
@@ -37,6 +40,7 @@ class ProjectDefinition:
             project_description=data.get("project_description", ""),
             project_definition=data.get("project_definition", ""),
             activity_description=data.get("activity_description", ""),
+            confidence = data.get("confidence", -1)
         )
 
 
@@ -44,37 +48,31 @@ class ProjectResult:
     def __init__(
         self,
         project: ProjectDefinition,
-        comment: str,
-        datetime: datetime,
-        name: str,
+        datetime_start: datetime,
+        user_id: str,
         duration: int,
     ) -> None:
         self.project = project
-        self.comment = comment
-        self.datetime = datetime
-        self.name = name
+        self.datetime_start = datetime_start
+        self.user_id = user_id
         self.duration = duration
 
     def to_dict(self) -> Dict[str, Any]:
         return {
             "project": self.project.to_dict(),
-            "comment": self.comment,
-            "datetime": self.datetime.isoformat(),
-            "name": self.name,
+            "datetime_start": self.datetime.isoformat(),
+            "name": self.user_id,
             "duration": self.duration,
         }
 
     def GetProject(self) -> ProjectDefinition:
         return self.project
 
-    def GetComment(self) -> str:
-        return self.comment
-
     def GetDatetime(self) -> datetime:
-        return self.datetime
+        return self.datetime_start
 
     def GetName(self) -> str:
-        return self.name
+        return self.user_id
 
     def GetDuration(self) -> int:
         return self.duration
@@ -83,11 +81,10 @@ class ProjectResult:
     def from_dict(cls, data: Dict[str, Any]) -> "ProjectResult":
         return cls(
             project=ProjectDefinition.from_dict(data.get("project", {})),
-            comment=data.get("comment", ""),
-            datetime=datetime.fromisoformat(
-                data.get("datetime", "1970-00-00T00:00:00")
+            datetime_start=datetime.fromisoformat(
+                data.get("datetime_start", "1970-00-00T00:00:00")
             ),
-            name=data.get("name", ""),
+            user_id=data.get("user_id", ""),
             duration=data.get("duration", 0),
         )
 
