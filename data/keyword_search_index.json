@@ -2,10 +2,10 @@
     "Ene vision": {
         "Development": [
             "development",
-            "vision development nan"
+            "ene vision development",
+            "vision development"
         ],
         "Documentation (FDS)": [
-            "documentation fds nan",
             "vision documentation fds"
         ],
         "Optimax Engineering": [
@@ -14,15 +14,14 @@
             "manual add missing",
             "optimax engineering dashboards",
             "optimax engineering manual",
-            "optimax engineering nan",
             "vision optimax engineering"
         ],
         "Project meetings": [
             "changes",
             "jan bitta",
             "jan bitta address",
+            "meetings",
             "meetings meeting jan",
-            "meetings nan",
             "needed",
             "project",
             "vision project meetings"
@@ -31,12 +30,12 @@
             "ene vision simulation",
             "enevision",
             "input",
+            "nan",
             "problem",
             "problem nan values",
             "simulation",
-            "simulation nan",
             "simulation problem",
-            "vision simulation nan"
+            "vision simulation"
         ],
         "Testing & Handover": [
             "autodownloading data jepx",
@@ -91,11 +90,9 @@
             "testing handover",
             "testing handover enevision",
             "testing handover fat",
-            "testing handover nan",
             "testing handover possible",
             "testing handover preparing",
             "testing handover vpn",
-            "vision",
             "vision testing",
             "vision testing handover",
             "vpn",
@@ -144,8 +141,8 @@
             "cz 2024 wp-12081.04 optimax - demo preparing 2024-07-19",
             "cz 2024 wp-12081.04 optimax - demo setting",
             "cz 2024 wp-12081.04 optimax - demo verification",
-            "de abb",
             "deabb azure",
+            "demo helping bernhard",
             "demo vms",
             "demo vms itabb",
             "euopc vm",
@@ -154,7 +151,6 @@
             "external user",
             "file preparation",
             "fix",
-            "fixing",
             "fixing h2 valleys",
             "h2 p2x",
             "helping bernhard",
@@ -180,8 +176,9 @@
             "sizing tool working",
             "subscription os version",
             "uploading",
-            "valleys de abb",
+            "valleys abb",
             "vhd added",
+            "vm abb",
             "vm p2x",
             "vm vhd file",
             "vms itabb demo",
@@ -236,12 +233,12 @@
             "denmark",
             "denmark optimax",
             "denmark optimax support",
+            "denmark optimax support engineering",
             "denmark optimax support engineering installation",
             "denmark optimax support engineering meeting",
             "denmark optimax support engineering optimax",
             "dk cloud",
             "engineering meeting norfors",
-            "engineering nan",
             "engineering norfors user",
             "engineering user",
             "engineering user account",
@@ -334,7 +331,6 @@
             "engineering loiste data",
             "engineering meeting new",
             "engineering meetings",
-            "engineering nan",
             "engineering preparing data",
             "engineering saf sftp",
             "engineering sat",
@@ -540,24 +536,26 @@
     "Camp del Din": {
         "Documentation": [
             "camp",
+            "camp del",
             "camp del din documentation camp del din - scenario",
             "camp del din documentation reading",
-            "del din",
-            "del din scenario",
-            "din documentation reading",
+            "camp del documentation",
+            "del",
+            "del scenario documentation",
             "documentation camp del",
             "reading",
-            "scenario documentation"
+            "reading documentation",
+            "scenario"
         ],
         "Int. Communication": [
             "camp",
-            "camp del din",
             "camp del din int",
+            "camp del meeting",
+            "communication camp",
             "communication camp del din - meeting",
             "communication internal",
             "communication kick meeting",
-            "del din int",
-            "din meeting itabb",
+            "del meeting itabb",
             "int",
             "int communication",
             "int communication internal",
@@ -565,6 +563,7 @@
             "itabb",
             "jb",
             "jt",
+            "kick",
             "meeting jt jb",
             "richard"
         ]

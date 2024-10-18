@@ -53,6 +53,7 @@ class KeywordSearchIndex:
             nltk.corpus.stopwords.words("english")
             + nltk.corpus.stopwords.words("german")
             + nltk.corpus.stopwords.words("finnish")
+            + nltk.corpus.stopwords.words("swedish")
         )
 
     @classmethod
