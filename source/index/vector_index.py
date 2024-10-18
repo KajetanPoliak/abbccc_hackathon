@@ -52,7 +52,9 @@ class FaissIndex:
         model: AutoModel,
         k: Optional[int] = None,
     ) -> Tuple[npt.NDArray, npt.NDArray, List[str]]:
-        query = encode_documents([document], tokenizer, model, normalize=True)
+        query = encode_documents(
+            [document], tokenizer, model, normalize=True, device="mps"
+        )
         # Normalize the query vector
         query /= np.linalg.norm(query, axis=1).reshape(-1, 1)
         return self.search_by_vector_query(query, k)
@@ -106,7 +108,7 @@ if __name__ == "__main__":
         by=["Project Description", "Activity Description"],
         as_index=False,
     ).agg({"Comment": lambda item: " | ".join(item.tolist()).strip("| ")})
-    tok, mod = get_tokenizer_and_model(device="mpu")
+    tok, mod = get_tokenizer_and_model(device="mps")
     # Create a list of documents by concatenating project name,
     # activity description, and comment
     documents = df.apply(
@@ -115,9 +117,14 @@ if __name__ == "__main__":
         f"{row['Comment']}".strip("/ "),
         axis=1,
     ).tolist()
-    embs = encode_documents(documents, tokenizer=tok, model=mod, normalize=True)
+    embs = encode_documents(
+        documents, tokenizer=tok, model=mod, normalize=True, device="mps"
+    )
     index = FaissIndex(dim=embs.shape[1])
-    index.set_embeddings(embs, documents)
+    # Create the index items by preserving only the project name and activity
+    # descriptions
+    items_parsed = [document.split("/")[0].strip() for document in documents]
+    index.set_embeddings(embs, items=items_parsed)
     index.save("faiss_ip.index")
 
     # Example search
