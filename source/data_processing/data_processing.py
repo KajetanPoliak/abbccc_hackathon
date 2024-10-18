@@ -1,5 +1,5 @@
 import json
-from typing import Any, List
+from typing import Any, Dict, List, cast
 
 import pandas as pd
 
@@ -73,20 +73,17 @@ class DataProcessor:
         # title_body_df = self.build_structure(df_proj_trimmed)
         return df_proj_trimmed
 
-    def load_event_data(self) -> pd.DataFrame:
+    def load_event_data(self) -> List[Dict[str, Any]]:
         # load from json to df
         with open(f"{self.data_dir}{self.event_data_fn}") as f:
-            data = json.load(f)
-        df = pd.DataFrame(data)
-        return df
+            data = cast(List[Dict[str, Any]], json.load(f))
+        return data
 
-    def get_email_data(self) -> Any:
-        df = self.load_event_data()
-        df_restricted = df[self.event_used_cols]
-        data_list = df_restricted.values.tolist()
-        return data_list
+    def get_even_dataframe(self) -> pd.DataFrame:
+        df = pd.DataFrame(self.load_event_data())
+        return df
 
 
 if __name__ == "__main__":
     dp = DataProcessor()
-    data = dp.get_email_data()
+    data = dp.get_even_dataframe()
