@@ -54,18 +54,21 @@ class ProjectResult:
         datetime_start: datetime,
         user_id: str,
         duration: int,
+        subject: str,
     ) -> None:
         self.project = project
         self.datetime_start = datetime_start
         self.user_id = user_id
         self.duration = duration
+        self.subject = subject
 
     def to_dict(self) -> Dict[str, Any]:
         return {
             "project": self.project.to_dict(),
             "datetime_start": self.datetime_start.isoformat(),
-            "name": self.user_id,
+            "user_id": self.user_id,
             "duration": self.duration,
+            "subject": self.subject,
         }
 
     def GetProject(self) -> ProjectDefinition:
@@ -74,11 +77,14 @@ class ProjectResult:
     def GetDatetime(self) -> datetime:
         return self.datetime_start
 
-    def GetName(self) -> str:
+    def GetUserId(self) -> str:
         return self.user_id
 
     def GetDuration(self) -> int:
         return self.duration
+
+    def GetSubject(self) -> str:
+        return self.subject
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "ProjectResult":
@@ -89,6 +95,7 @@ class ProjectResult:
             ),
             user_id=data.get("user_id", ""),
             duration=data.get("duration", 0),
+            subject=data.get("subject", ""),
         )
 
 
