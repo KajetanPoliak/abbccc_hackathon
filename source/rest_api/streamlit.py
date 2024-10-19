@@ -1,6 +1,8 @@
 import json
 from datetime import datetime
 
+import plotly.express as px
+import plotly.graph_objects as go
 import requests
 import streamlit as st
 from result import ProjectDefinition, ProjectResult, SearchResults
@@ -72,6 +74,68 @@ def userIdToName(id: str) -> str:
     return "Aleksandar CEBZAN"
 
 
+def create_project_histogram(project_results: list[ProjectResult]) -> go.Figure:
+    days = [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+    ]
+    hours_by_day = {}
+
+    for day in days:
+        hours_by_day[day] = 0
+
+    for result in project_results:
+        day = result.GetDatetime().strftime("%A")
+        hours = result.GetDuration()
+        hours_by_day[day] += hours
+
+    x = days
+    y = [hours_by_day[day] for day in days]
+
+    fig = go.Figure(data=[go.Bar(x=x, y=y)])
+    fig.update_layout(
+        title="Hours Spent by Day of Week",
+        xaxis_title="Day of Week",
+        yaxis_title="Hours Spent",
+        height=400,
+    )
+    return fig
+
+
+def create_activity_pie_chart(
+    project_results: list[ProjectResult],
+) -> go.Figure:
+    activity_duration: dict[str, float] = {}
+
+    for result in project_results:
+        activity = result.GetSubject()
+        duration = result.GetDuration()
+        if activity in activity_duration:
+            activity_duration[activity] += duration
+        else:
+            activity_duration[activity] = duration
+
+    fig = px.pie(
+        values=list(activity_duration.values()),
+        names=list(activity_duration.keys()),
+        title="Time Distribution Across Events",
+    )
+    fig.update_traces(textposition="inside", textinfo="percent")
+    fig.update_layout(
+        legend=dict(
+            orientation="h", yanchor="bottom", y=-0.3, xanchor="center", x=0.5
+        ),
+        height=600,  # Increase height to accommodate legend below
+        margin=dict(t=30, b=120),  # Adjust top and bottom margins
+    )
+    return fig
+
+
 st.title("Project Search")
 
 project_description = st.text_input("Project Description")
@@ -90,6 +154,14 @@ if st.button("Search"):
             project_duration = get_total_duration(project_results)
             st.markdown(f"## Project: {project}")
             st.markdown(f"**Total Duration**: {project_duration}")
+            col1, col2 = st.columns(2)
+            with col1:
+                fig_histogram = create_project_histogram(project_results)
+                st.plotly_chart(fig_histogram, use_container_width=True)
+
+            with col2:
+                fig_pie = create_activity_pie_chart(project_results)
+                st.plotly_chart(fig_pie, use_container_width=True)
 
             description_groups = split_by_description(project_results)
             for description, description_results in description_groups.items():

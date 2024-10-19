@@ -7,7 +7,7 @@ from result import ProjectDefinition, ProjectResult, SearchResults
 
 app = Flask(__name__)
 
-with open("./data/enriched_data.json", encoding="utf-8") as f:
+with open("./data/data_results.json", encoding="utf-8") as f:
     data = json.load(f)
 
 results = SearchResults()
