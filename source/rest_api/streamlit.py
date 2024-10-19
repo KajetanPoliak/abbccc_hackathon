@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 
+import plotly.graph_objects as go
 import requests
 import streamlit as st
 from result import ProjectDefinition, ProjectResult, SearchResults
@@ -72,6 +73,39 @@ def userIdToName(id: str) -> str:
     return "Aleksandar CEBZAN"
 
 
+def create_project_histogram(project_results: list[ProjectResult]) -> go.Figure:
+    days = [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday",
+    ]
+    hours_by_day = {}
+
+    for day in days:
+        hours_by_day[day] = 0
+
+    for result in project_results:
+        day = result.GetDatetime().strftime("%A")
+        hours = result.GetDuration()
+        hours_by_day[day] += hours
+
+    x = days
+    y = [hours_by_day[day] for day in days]
+
+    fig = go.Figure(data=[go.Bar(x=x, y=y)])
+    fig.update_layout(
+        title="Hours Spent by Day of Week",
+        xaxis_title="Day of Week",
+        yaxis_title="Hours Spent",
+        height=400,
+    )
+    return fig
+
+
 st.title("Project Search")
 
 project_description = st.text_input("Project Description")
@@ -90,6 +124,8 @@ if st.button("Search"):
             project_duration = get_total_duration(project_results)
             st.markdown(f"## Project: {project}")
             st.markdown(f"**Total Duration**: {project_duration}")
+            fig = create_project_histogram(project_results)
+            st.plotly_chart(fig)
 
             description_groups = split_by_description(project_results)
             for description, description_results in description_groups.items():
